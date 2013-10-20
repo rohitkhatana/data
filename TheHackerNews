@@ -1,0 +1,3907 @@
+Python 2.7.2 (default, Jun 12 2011, 15:08:59) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=TheHackersNews
+https://api.twitter.com/1.1/application/rate_limit_status.json?resources=statuses
+{u'rate_limit_context': {u'access_token': u'838203445-AOC6HFdUCZfAswXKVQQpdyCJImHoloyFVr1qZVSd'}, u'resources': {u'statuses': {u'/statuses/retweets_of_me': {u'reset': 1382234109, u'limit': 15, u'remaining': 15}, u'/statuses/retweeters/ids': {u'reset': 1382234109, u'limit': 15, u'remaining': 15}, u'/statuses/mentions_timeline': {u'reset': 1382234109, u'limit': 15, u'remaining': 15}, u'/statuses/user_timeline': {u'reset': 1382233368, u'limit': 180, u'remaining': 138}, u'/statuses/oembed': {u'reset': 1382234109, u'limit': 180, u'remaining': 180}, u'/statuses/show/:id': {u'reset': 1382234109, u'limit': 180, u'remaining': 180}, u'/statuses/home_timeline': {u'reset': 1382234109, u'limit': 15, u'remaining': 15}, u'/statuses/retweets/:id': {u'reset': 1382234109, u'limit': 15, u'remaining': 15}}}}
+https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=TheHackersNews&max_id=391266468781752320
+https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=TheHackersNews&max_id=390781375541809152
+https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=TheHackersNews&max_id=389579463282802689
+https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=TheHackersNews&max_id=388749132635967488
+https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=TheHackersNews&max_id=387637883189743616
+https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=TheHackersNews&max_id=387296003046387712
+https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=TheHackersNews&max_id=386754583537532928
+https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=TheHackersNews&max_id=386450501161582593
+https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=TheHackersNews&max_id=386154481563357184
+https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=TheHackersNews&max_id=386020407494443008
+https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=TheHackersNews&max_id=385773907073970178
+https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=TheHackersNews&max_id=385337457710886912
+https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=TheHackersNews&max_id=384951656040783872
+https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=TheHackersNews&max_id=384388021472092160
+https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=TheHackersNews&max_id=384005114266017792
+https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=TheHackersNews&max_id=383854692079382528
+https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=TheHackersNews&max_id=383584851237957632
+https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=TheHackersNews&max_id=383281319867711488
+https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=TheHackersNews&max_id=382892027043532800
+https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=TheHackersNews&max_id=382537668745125888
+0----->rt @soaj1664ashar: another dom #xss in paypal apps (new application) [fixed]: https://t.co/pm4karnyf1 #dom #xss http://t.co/knxkvmuoqp
+1----->rt @soaj1664ashar: #xss in yahoo email box (seems fixed): #yahoo http://t.co/v9soggslkq
+2----->lol http://t.co/naftso2hts amazing :d
+3----->embassy of the #russian federation in the republic of india was defaced today by pakistani hackers. now recovered !
+4----->after d-link, backdoor found in tenda (chinese company) wireless routers  http://t.co/gjnjxdpvhx #security | http://t.co/njn8htdrfl
+5----->today syrian electronic army hijacked many high profile qatar based websites, including the google, facebook http://t.co/3tizu8hpne
+6----->hacker news paper http://t.co/tteo8uzylh is out! http://t.co/hiid2zl0wu
+7----->backdoor found in chinese tenda wireless routers, allows #root access to hackers http://t.co/gjnjxdpvhx #security
+8----->first ever firefox os #malware created using just html, css, and javascript to remotely control the device http://t.co/dpcz2pyd8e #security
+9----->#qatar domain registrar hacked; major sites redirected page with picture of assad &amp; sea hackers logo http://t.co/3tizu8hpne #security
+10----->rt @hackers_conf: @official_sea16 at it again! hijacks major qatar sites including google, facebook, vodafone http://t.co/qxfidwr9ol #secur
+11----->#qatar is down ! 'syrian electronic army' hijacks major qatar sites including google, facebook, vodafone http://t.co/3tizu8hpne #security
+12----->electric grid vulnerabilities abound http://t.co/ao8jgokmfn #infosec #security #scada via @tripwireinc
+13----->rt @unix_root: sophisticated hackers are using aslr bypass techniques in #apt attacks http://t.co/2slrimwbqa #security
+14----->rt @unix_root: unbreakable apple's #imessage encryption is actually not encrypted &amp; vulnerable to eavesdropping attack http://t.co/6pwutsr2
+15----->rt @securityaffairs: a vbulletin exploit used to hack thousands of websites
+http://t.co/gyxgd0yyfl
+#securityaffairs #vbulletin #cybersecuri
+16----->rt @securityaffairs: ddos attacks : a serious unstoppable menace for it security communities http://t.co/lrxiuq9fq0 via @thehackersnews #se
+17----->rt @vikram_nz: huawei gently points at the hypocrisy of us govt over backdoors http://t.co/uxxogvqsxr
+18----->@razoreqx welcome and thank you @sambowne @securityaffairs @securityshell @anon_central @enfoqueseguro @ for rts #ff
+19----->cryptolocker #ransomware accepts payment in #bitcoin also http://t.co/1xqqoo1ysk #security | http://t.co/o0cw1dgbll
+20----->cryptolocker #ransomware accepts payment in #bitcoin also http://t.co/1xqqoo1ysk #security | http://t.co/o0cw1dgbll
+21----->rt @youranonnews: massive 100gbps #ddos attack hit world's 3rd largest chinese #bitcoin exchange for 9 hours | http://t.co/yfnymalevd
+22----->massive 100gbps #ddos attack hit world's 3rd largest chinese #bitcoin exchange for 9 hours http://t.co/gldi9bc2ag #security
+23----->#ddos attacks : average attack sizes on monthly base touched 3gbs http://t.co/a56p0kr6se #security
+24----->#ddos attacks : a serious unstoppable menace for it #security communities http://t.co/iimh4afnei
+25----->hacker news paper http://t.co/tteo8uzylh is out! http://t.co/hiid2zl0wu
+26----->#apple's claim of unbreakable imessage encryption 'basically lies,' said @pod2g : http://t.co/dskwzjnvgz #security #iphone #ios
+27----->@firefox os was launched just few months back &amp; hacker is ready with first ever #malware http://t.co/dpcz2pyd8e | http://t.co/mrrmkl1wz1
+28----->17-years-old #security researcher developed the first #malware ever for #firefox mobile os http://t.co/dpcz2pyd8e cc: @g0summit
+29----->exclusive: #security researcher developed the first #malware ever for #firefox mobile os http://t.co/dpcz2pyd8e
+30----->unbreakable apple's #imessage encryption is actually not encrypted &amp; vulnerable to eavesdropping attack http://t.co/dskwzjnvgz #security
+31----->rt @hackers_conf: cryptolocker #ransomware demands $300 to decrypt your files http://t.co/5yvcrzs7on #security #malware
+32----->top 3 focus areas that can help you in data loss prevention http://t.co/szoqxayhdv #security
+33----->chinas largest search engine #baidu has become the first service of its kind to accept payments in the #bitcoin.
+34----->100gbps #ddos attack against btc china without dns amplification attack http://t.co/gldi9bc2ag #security #bitcoin | http://t.co/v9qps6khno
+35----->world's 3rd largest chinese #bitcoin exchange hit by 100gbps #ddos attack http://t.co/gldi9bc2ag #security
+36----->sophisticated hackers are using aslr bypass techniques in #apt attacks http://t.co/jtewusai7b #security
+37----->rt @soaj1664ashar: trusted friend attack: guardian angels strike http://t.co/gjrfgm5djl #hitb2013kul (pdf here: http://t.co/c4b9zk7bns )
+38----->hacker news paper http://t.co/tteo8uzylh is out! http://t.co/hiid2zl0wu
+39----->stop data walking out the door: learn how to detect, prevent and replace the use of usbs! live webcast oct 22nd https://t.co/u6mjxncbgm
+40----->stop data walking out the door: learn how to detect, prevent and replace the use of usbs! live webcast oct 22nd https://t.co/u6mjxncbgm
+41----->glenn greenwald, journalist who broke #snowden and #nsa stories leaving the guardian http://t.co/ujyugyu3vs
+42----->#aslr bypass techniques are popular with #apt attacks :: http://t.co/jtewusai7b #security #vulnerability #ie
+43----->hacker news paper http://t.co/tteo8uzylh is out! http://t.co/hiid2zl0wu
+44----->#security bill: facebook, google,yahoo &amp; telecom operators must allow new zealand spy agencies to intercept data http://t.co/yafjjhwwmr
+45----->new zealand telecom interception bill passes 2nd reading in parliament http://t.co/yafjjhwwmr #privacy #nsa #surveillance
+46----->so-called #vbulletin zero-day #vulnerability is not actually #0day,was available &amp; used in the wild since august | http://t.co/mrkqlnjszr
+47----->rt @aljazarah: read more: http://t.co/r28ipgwm6b 
+@thehackersnews #whatsapp is back ! it been #hacked by #palestinian @whatsapp http://t.
+48----->rt @_g12: internet surveillance, privacy &amp; prism - enemies of the internet http://t.co/waboe70vzc @thehackersnews #security http://t.co/7dg
+49----->#nmap script for identifying the latest #vulnerability in d-link routers for unauthorized access http://t.co/tfybdpuvyc #security
+50----->new zealand forcing google,facebook &amp; network operators to provide interception capability http://t.co/yafjjhwwmr #surveillance #privacy
+51----->hacker news paper http://t.co/tteo8uzylh is out! http://t.co/hiid2zl0wu
+52----->just by changing the user-agent in a web browser a user could bypass d-link routers #security http://t.co/tfybdpuvyc
+53----->unauthorized access #backdoor found in d-link router firmware code http://t.co/tfybdpuvyc #security
+54----->u.s secret court renews the #nsa permission to collect telephony metadata again for next 3 months http://t.co/xvtr0alpie   #security #prism
+55----->your #whatsapp can be get hacked : http://t.co/290zo3ris8 @securityaffairs #security | http://t.co/miccyo2uji
+56----->fraudsters installed credit card skimming #keylogger at into cash registers in a nordstrom department store http://t.co/6h7ngzd8jh #security
+57----->ways to prevent data loss http://t.co/szoqxayhdv #security #infosec
+58----->cryptolocker #ransomware infecting millions of computers http://t.co/1xqqoo1ysk #security
+59----->#fisc court renews the permission to collect telephony metadata again http://t.co/xvtr0alpie #security #nsa #prism #snowden
+60----->#fisc court renews the permission to collect telephony metadata again http://t.co/xvtr0alpie #security #nsa #prism #snowden
+61----->kayako's helpdesk used by #viber and thousands of other companies was vulnerable to config file disclosure http://t.co/cpxysbkdza #security
+62----->hardware keylogger used by card skimmers to steal credit cards at nordstrom store http://t.co/6h7ngzd8jh #security
+63----->top 3 focus areas that can help you in data loss prevention http://t.co/szoqxayhdv #security #infosec
+64----->warning : new version of cryptolocker #ransomware demands $300 to decrypt your files http://t.co/1xqqoo1ysk #security #malware
+65----->hacker news paper http://t.co/tteo8uzylh is out! http://t.co/hiid2zl0wu
+66----->@amvlad from #bitdefender commented about hack,"all bitdefender customers are and were 100% protected." http://t.co/ica9exg4j0 @catalincosoi
+67----->your name and face photo can be used in @google ads from 11th november unless you opt out http://t.co/wf9brbo60u via @9to5mac
+68----->a malicious chrome extension doesn't let users access the browser's extension page https://t.co/w6ul8bizoh #security
+69----->#ucbrowser built in china and on their front page claiming no.1 in india. #wtf another #espionage product with 400 million global users.
+70----->just after installing uc browser from @googleplay,it asking forcefully to install another apk downloaded from china as updated version.
+71----->rt @securityshell: antivirus firm eset and bitdefender website hijacked by pro-palestinian hackers http://t.co/wxvcrtwoqs
+72----->hacker news paper http://t.co/tteo8uzylh is out! http://t.co/hiid2zl0wu
+73----->rt @security_wang: antivirus firm eset and bitdefender website hijacked by pro-palestinian hackers http://t.co/zqzpkdogxc
+74----->#security is just an illusion  eset  bitdefender  rapid7  metasploit  whatsapp  avg  avira  alexa  leaseweb http://t.co/ica9exg4j0
+75----->exclusive : #antivirus firm #eset and #bitdefender website also hijacked by pro-palestinian hackers http://t.co/ica9exg4j0 #security
+76----->#vulnerability in #whatsapp allows decrypting user messages http://t.co/290zo3ris8 #security
+77----->rt @official_roy: write-up: stored xss in google for ios http://t.co/egzwursi5h // @thehackersnews @rafaybaloch  @soaj1664ashar #xss http:/
+78----->rt @jiten_jain: special credit to team @hackers_conf  and @thehackersnews for  session on @googleandroidos security at google devfest 2013,
+79----->edward #snowden receives  a whistleblowing award by the sam adams associates
+80----->edward #snowden receives  a whistleblowing award by the sam adams associates
+81----->     
+82----->@vigilantcanuck thank you for #ff @dollarvigilante @guardianproject @truthstreamnews @torproject @telecomix @debian @thomasewoods @feardept
+83----->#vulnerability in #whatsapp allows decrypting user messages http://t.co/290zo3ris8 #security
+84----->#metasploit website hack highlights a serious #security issue with domain register and dns change request via fax http://t.co/nlz1iwx2ca
+85----->rt @hackers_conf: #metasploit website hacked just by sending a spoofed dns change request via fax to domain registrar http://t.co/avctzxsuo
+86----->#metasploit website hacked just via sending a fax to domain registrar : http://t.co/nlz1iwx2ca  #security
+87----->#metasploit website hacked using dns poisoning attack by palestinian hackers http://t.co/nlz1iwx2ca #security
+88----->hacker news paper http://t.co/tteo8uzylh is out! http://t.co/hiid2zl0wu
+89----->rt @hackers_conf: silk road : 8 more suspected users arrested, millions of dollars worth of #bitcoin had been seized http://t.co/sofhqwp2l9
+90----->rt @hocupdate: google.my got hacked by team madleets.. http://t.co/bfz7nucdge @thehackersnews
+91----->silk road : 8 more suspected users arrested, millions of dollars worth of #bitcoin had been seized http://t.co/ixdiiq6u74 #security #tor
+92----->hacker news paper http://t.co/tteo8uzylh is out! http://t.co/hiid2zl0wu
+93----->rt @soaj1664ashar: dom #xss in paypal apps: https://t.co/ijgtigxtfy [fixed]: http://t.co/6siqqouymk
+94----->hacker news paper http://t.co/tteo8uzylh is out! http://t.co/hiid2zl0wu
+95----->can anyone share the link of leaked database from #adobe hack. screenshot : http://t.co/hrpllkrl57 | email us at thehackernews@gmail.com
+96----->a new #vulnerabilityin the #ios v7.0.1 &amp; v7.0.2, that allows a hacker to bypass the sim lock mode http://t.co/dce1ol2czf #security
+97----->how a telecom helped the us government spy on me http://t.co/fv7oydaqtb
+98----->rt @kimdotcom: hey @barackobama after the shut down comes the reboot. switch to "safe mode" ;-) http://t.co/g81cm8golh
+99----->rt @hackers_conf: #iphone #ios 7.0.2 sim lock screen bypass #vulnerability http://t.co/5zwremilhf #security
+100----->rt @hackers_conf: #iphone #ios 7.0.2 sim lock screen bypass #vulnerability http://t.co/5zwremilhf #security
+101----->the mailbag  http://t.co/xwjk7488rb via @asher_wolf #wikileaks #osint
+102----->#iphone #ios 7.0.2 sim lock screen bypass #vulnerability http://t.co/l1wo9f1c5x #security
+103----->its patch tuesday: #adobe security updates for robohelp, #reader &amp; #acrobat http://t.co/jxglwojdgg via @adobesecurity
+104----->hacker news paper http://t.co/tteo8uzylh is out! http://t.co/hiid2zl0wu
+105----->not just website, #avg antivirus also failed to update the software database | http://t.co/0gq3kdytsp | http://t.co/ib0g4isppt
+106----->network solutions is common domain registrar for avg,avira &amp; whatsapp. possibly, hacker compromised the registrar http://t.co/0gq3kdytsp
+107----->exclusive : #avira antivirus website also defaced by #palestinian hackers, just after #avg and #whatsapp hack.  http://t.co/0gq3kdytsp
+108----->#whatsapp and #avg antivirus website defaced by palestinian hackers http://t.co/0gq3kdytsp #security
+109----->rt @dennisrand: iphone fingerprint scanner hack allows attacker to hijack apple id using flight mode
+http://t.co/bt5num0y6y
+110----->rt @kafeine: nuclear pack 3.0 thread removed from underground forum. nuclear banned from exploit[.]in. verified : account removed. http://t
+111----->asus rt-n10e wireless router #vulnerable to authentication bypass  http://t.co/vtbcznh4lf
+112----->learn how web cookies can expose #tor user to #nsa http://t.co/m1bac9camf #security #prism #anonymous
+113----->#microsoft will pay up to $100,000 to developers who find truly novel exploitation techniques in #windows 8.1 http://t.co/vmvyrzxepi
+114----->microsoft paid out $28,000 to 6 #security researchers for reporting 15 different bugs in internet explorer 11 (ie11) http://t.co/vmvyrzxepi
+115----->it's patch tuesday. update your window for some critical #security updates and to patch #0day in internet explorer http://t.co/amakhhe5wl
+116----->creating undetectable mac os x #malware | read : http://t.co/ad7olzhtzv | #apple #encryption #pentest #macos #virus
+117----->#microsoft paid over $28,000 rewards to six researchers for its first ever bug bounty program http://t.co/vmvyrzxepi #security #ie
+118----->#mac os x encryption mechanism can be abused to make new and existing #malwares undetectable http://t.co/ad7olzhtzv
+119----->exclusive : #apple's own encryption mechanism allows hacker to create an undetectable mac os x #malware http://t.co/ad7olzhtzv #security
+120----->exclusive : #apple's own encryption mechanism allows hacker to create an undetectable mac os x #malware http://t.co/ad7olzhtzv #security
+121----->"paunch", the author of blackhole #exploit kit arrested in russia, claimed by #security researcher http://t.co/qhjmjslfds
+122----->three of microsoft's top 20 investors want bill gates to quit along with ceo steve ballmer http://t.co/kyz16pzmxc
+123----->rt @alienvault: world's largest web hosting company hacked and defaced - http://t.co/p7byovc7hq via @thehackersnews
+124----->rt @unix_root: @gcluley warning message was not displayed to all. screenshot from another @adobe user .. #gmail is ok http://t.co/fp6csf9bn3
+125----->rt @hackers_conf: how al-shabab is using twitter for terrorism http://t.co/uhhdoxq8sb
+126----->htc's one max could have a fingerprint scanner too.. here we go #hackers
+127----->hacker news paper http://t.co/tteo8uzylh is out! http://t.co/hiid2zl0wu
+128----->leaseweb confirmed their dns server was hijacking, but culprit is not #whmcs (vulnerable to #0day sql injection) http://t.co/r19eqxhgxo
+129----->#iphone fingerprint scanner flaw allows attacker to hijack apple id with flight mode http://t.co/73d5zks3w9 #security #touchid
+130----->microsoft patch tuesday - 8 #security updates, 4 critical #vulnerabilities, including internet explorer #0day http://t.co/amakhhe5wl #ie
+131----->rt @dinosn: ms13-053 win32k memory allocation vulnerability http://t.co/uujjgz5osw
+132----->rt @matteoca: iphone fingerprint scanner hacked again; flaw allows attacker to hijack apple id http://t.co/xgubuarfv9
+133----->web hosting software #whmcs vulnerable to sql injection http://t.co/abnzvowr5a
+134----->#iphone fingerprint scanner hacked again; flaw allows attacker to hijack apple id http://t.co/73d5zks3w9  #security #touchid
+135----->hacker news paper http://t.co/tteo8uzylh is out! http://t.co/hiid2zl0wu
+136----->rt @redhackeditor: #nsa using browser cookies to track tor users
+http://t.co/dhcahxaqph #tor #surveillance
+137----->rt @r00t_me: #yahoo wants me to pay the shipping after having a code for the #bugbounty! @yahoo go fuck yourself! #xss http://t.co/11ixcxzd
+138----->rt @michelle9647: nsa using browser cookies to track tor users - the hacker news
+http://t.co/hh6bokl4hf
+139----->26 years to release #snowden docs by the @guardian http://t.co/n5bp52micn
+140----->26 years to release #snowden docs by the @guardian http://t.co/n5bp52micn
+141----->out of reported 15,000 pages #snowden docs, @guardian has published 192 pages in fourteen releases over four months http://t.co/n5bp52micn
+142----->@leaseweb was hacked using #whmcs sql injection #vulnerability; other hosting providers also at risk http://t.co/abnzvowr5a #security
+143----->web #hosting software #whmcs vulnerable to sql injection; emergency #security update released http://t.co/abnzvowr5a
+144----->@leaseweb confirmed the #security breach, "no customer data compromised"  http://t.co/r19eqxhgxo  #hosting
+145----->#megaupload's former hosting provider - #leaseweb hacked and defaced by palestinian hackers http://t.co/r19eqxhgxo #securiy cc: @kimdotcom
+146----->palestine #anonymous hacker defaced the world biggest hosting service @leaseweb http://t.co/r19eqxhgxo #security | http://t.co/donvqkoq37
+147----->world's largest web hosting company @leaseweb hacked by kdms team http://t.co/r19eqxhgxo #security
+148----->rt @mybitgo: ulbricht has another $80 million btc the gov hasn't seized which is 5% of all bitcoin in existence http://t.co/ykuj7wdsix @the
+149----->rt @security_wang: @mikko ubuntu
+2.3 breezy badger
+2.4 dapper drake
+2.5 edgy eft
+2.6 feisty fawn
+2.7 gutsy  gibbon
+2.8 hardy heron
+2.9 intr
+150----->22 years ago today, linus torvalds released #linux 0.02. via @linuxfoundation
+151----->tip : always keep ur regular browser different from #tor browser, clean cookies &amp; cache each time you exit http://t.co/m1bac9camf #nsa
+152----->rt @hackers_conf: @eff hey, #nsa, we've updated your tor graphic. can you spot the differences? http://t.co/6bmgazsshr via @eff
+153----->rt @hackers_conf: check out the motives behind the state sponsored cyber attacks of various nations | read : http://t.co/6xujtoyk5v #securi
+154----->rt @publicanonnews: world war c report - motives behind state sponsored #cyberattacks l #thn http://t.co/xbazacg8f3
+155----->nsa advertising their cookie tracking sites on google ads to track more #anonymous tor users http://t.co/m1bac9camf #privacy #security
+156----->how #nsa is using browser cookies to track #tor users &gt;&gt; http://t.co/m1bac9camf  #security #privacy #snowden
+157----->hacker news paper http://t.co/tteo8uzylh is out! http://t.co/hiid2zl0wu  top stories today via @security_wang
+158----->rt @hackers_conf: seized $3.5 million worth #bitcoin from "silk road" drug e-market will be deposited in the u.s. treasury http://t.co/tobp
+159----->rt @hackers_conf: time to review your #privacy settings again.. facebook updates graph search, more powerful than ever http://t.co/ostasfgp
+160----->rt @hackers_conf: time to review your #privacy settings again.. facebook updates graph search, more powerful than ever http://t.co/ostasfgp
+161----->rt @security_wang: no surprise! hd porn on galaxy wide screen....  #samsung exposed as top advertiser on pirated content distribution web
+162----->silkroad owner had 26000(seized) + 600000(encrypted still) btc, worth $85 millions, about 5% of total #bitcoin exists http://t.co/ke3bhqkxgf
+163----->rt @security_wang: seized $3.5 million worth #bitcoins from "silk road" will be deposited in the u.s. treasury http://t.co/vcavyqtoxc #secu
+164----->"silkroad seized coins" #bitcoin address has received 1300 btc after seizure &amp; account holds 27,365.89919925 btc http://t.co/ke3bhqkxgf
+165----->seized $3.5 million worth #bitcoins from "silk road" will be deposited in the u.s. treasury http://t.co/ke3bhqkxgf #security
+166----->rt @_cypherpunks_: here're @silent_circle's source codes  https://t.co/yxyaheiqho
+167----->rt @netik: to everyone who says, "no, the government doesn't run tor nodes." read this. http://t.co/1kcb1osohu
+168----->top-secret #nsa presentation says 'we will never be able to de-anonymize all #tor users all the time'
+169----->facebook graph search becomes more powerful than ever, review your privacy settings again http://t.co/vdqkg7uwwd #security
+170----->bitcoin talk forum hacked; database for sale by hacker; website currently down http://t.co/jymzloisii via @thehackersnews #security
+171----->meet the woman who's the voice of #siri http://t.co/ujpiriwgku #apple #iphone via @integosecurity @ew
+172----->rt @runasand: what i said in my @_defcon_ talk is still true: the nsa never ran tor relays from their own networks, they used amazon web se
+173----->rt @securityshell: dumping a domain's worth of passwords with mimikatz http://t.co/bqyvasy71g /@_dark_knight_
+174----->never use #tor with your ak47 strapped to your back, it's dangerous out there. http://t.co/ha3jx0amqp via @allshiny
+175----->rt @security_wang: @thehackersnews @bruce_schneier another story titled "#nsa tried and failed to compromise #tor" - output of their own do
+176----->@security_wang @bruce_schneier, but my concern is same, the change is forcing users towards 1.don't use tor or 2.don't believe #nsa claims
+177----->@security_wang, i agree with @crichton_eu, "all depends on when the document was created pre or post #snowden"
+178----->possibly #nsa misleading public about their #tor network capabilities or discouraging to don't use #tor, if it is still unbreakable #thn
+179----->"it seems" not "sure" that the #nsa has or not compromised the the #tor network yet. what you think ?
+180----->"it seems" not "sure" that the #nsa has or not compromised the the #tor network yet. what you think ?
+181----->#nsa devoted considerable efforts to attacking #tor service, says the tool also used by people engaged in #terrorism http://t.co/ogderdjtml
+182----->#nsa, "with manual analysis we can de-anonymize a very small fraction of tor users" not all at the same time.
+183----->top-secret #nsa documents, disclosed that nsa has made repeated attempts to develop attacks against people using #tor #security #snowden
+184----->so is #gchq and the #nsa calling all #tor users terrorist? http://t.co/ogderdjtml via @anonymouspress
+185----->us indicts 13 suspected members of hacker group #anonymous,  who participated in 'operation payback'   read more : http://t.co/pgkysmwvb6
+186----->hacker news paper http://t.co/tteo8uzylh is out! http://t.co/hiid2zl0wu
+187----->facebook graph search becomes more powerful than ever,review your #privacy settings http://t.co/vdqkg7uwwd #security http://t.co/h8mqwylvrn
+188----->pakistan to ban skype, viber for 3 months over terrorist usage  http://t.co/tzsk0ynum0
+189----->rt @unix_root: 'johnny johnny yes papa' redefine:
+nsa #nsa ? yes obama?
+whatsapp viber? no onama
+facebook n skype? yes obama
+#privacy got f
+190----->rt @security_wang: #bitcoin talk forum hacked; database for sale by hacker; website currently down http://t.co/imd8mqk14s #security
+191----->"hacked by" labeled as "bug bounty" .. but you #fail even after paying for neutralising the reputation.
+192----->rt @avgfree: what does facebooks expanded graph search mean for you? http://t.co/z6b0udomqk #freeantivirus
+193----->rt @blackthorne: http://t.co/gdqupyb0k4 - service for detecting and analyzing web-based malware http://t.co/jgsn0radyb
+194----->rt @blackthorne: wepawet - service for detecting and analyzing web-based threats that handles flash, javascript, and pdf files http://t.co/
+195----->adobe admits massive security breach , 2.9m customer accounts have been compromised,encrypted credit card data stolen http://t.co/dsn8wwwgyv
+196----->13 #anonymous members indicted and accused of participating in 'operation payback' http://t.co/pgkysmwvb6 #security #ddos
+197----->#fridayfollow @unix_root @anon_central @asher_wolf @hackers_conf @jiten_jain @nirgoldshlager @security_wang @securityaffairs
+198----->#bitcoin talk forum hacked; database for sale by hacker; website currently down http://t.co/jymzloisii #security
+199----->#anonymous search engine @duckduckgo #android app offers #tor integration http://t.co/yopebthyqd #security #privacy
+200----->#anonymous search engine @duckduckgo #android app offers #tor integration http://t.co/yopebthyqd #security #privacy
+201----->#adobe gets hacked; if youve given your credit card detail, plz keep an eye on your transactions http://t.co/dsn8wwwgyv #security
+202----->#adobe gets hacked; hackers steal 2.9 million adobe customers accounts http://t.co/dsn8wwwgyv #security
+203----->rt @usatoday: photo of the scene near the u.s. capitol, after reports of gunshots: http://t.co/4p72uybgdx
+204----->rt @rt_com: more: shots were reportedly fired outside us capitol around 2 p.m. following car chase that ended near building http://t.co/mpn
+205----->rt @rt_com: update: capitol police confirm gunshots fired outside building, shelter in place http://t.co/mpnmejjbvk
+206----->#gchq faces legal challenge in european court over online privacy - http://t.co/l8cirrlhif  important &amp; necessary move #surveillance
+207----->did you know october is national cyber security awareness month? get resources to stay protected now! #ncsam http://t.co/pvvt98pwf8
+208----->rt @unix_root: world war c report - motives behind state sponsored cyber attacks http://t.co/d9ketseld7 #security
+209----->feds take down online fraud bazaar silk road, arrest alleged mastermind http://t.co/hogq5zlntz
+210----->rt @6o57: yahoo is now offering up to $15,000 in bug bounty after policy review: offering cash rewards for vulnerability... http://t.co/mzh
+211----->#nsa planted bugs at indian missions in d.c., u.n.  http://t.co/na0mcq5pew via @thehindu
+212----->easily sign apks and flashable zips without a pc https://t.co/jh6tplpt78
+213----->#duckduckgo (search engine) #android app now offering #tor integration | http://t.co/yopebthyqd #security #privacy | http://t.co/yncm3dubnz
+214----->#anonymous search engine '#duckduckgo' #android app offers #tor integration http://t.co/yopebthyqd #security #privacy
+215----->so finally you can earn up to $15,000 from #yahoo ,via their new bug bounty program :: http://t.co/t2l4oenyew
+216----->so finally #yahoo is now offering up to $15,000 in bug bounty after policy review http://t.co/t2l4oenyew #security
+217----->hacker news paper http://t.co/tteo8uzylh is out! http://t.co/hiid2zl0wu
+218----->#lavabit case documents unsealed, show government demanded encryption keys http://t.co/iyys4bpnfg #nsa #prism #snowden #security #privacy
+219----->world war c  - motives behind state sponsored cyber attacks http://t.co/eircfs0da6 #security #cyberwar
+220----->world war c  - motives behind state sponsored cyber attacks http://t.co/eircfs0da6 #security #cyberwar
+221----->using santoku #linux for #android forensics https://t.co/2wvg1wojai via @viaforensics
+222----->intel powered arduino announced just now! #makerfairerome http://t.co/mn5ispglfu
+223----->using dns rpz to block malicious dns requests : http://t.co/yhp1afqlon #security
+224----->rt @smarimc: the pentagon spent $5bn on weapons on the eve of the gov't shutdown. funny how that happens, eh? http://t.co/fth4dxjoxy
+225----->learn the importance of logs and log management for it #security http://t.co/g1qokge1cu
+226----->29-year-old man arrested by feds, accused for running most notorious criminal site on the dark web called silk road http://t.co/hogq5zlntz
+227----->tor and silk road takedown. https://t.co/d4eatjeloi via @torproject
+228----->rt @vedantb: $12.5 for finding a bug :-\. thank you yahoo for taking email security so seriously :|
+http://t.co/lrc7wc0mgn via @thehackersn
+229----->#lavabit founder was fined $5,000 per day for not complying with the court orders to turn over ssl keys to fbi http://t.co/iyys4bpnfg
+230----->#fbi demands ssl keys from secure-email provider #lavabit in espionage probe http://t.co/iyys4bpnfg #security
+231----->#tor updated,
+silk road's founder arrested,
+seems legit !
+232----->the silk roads shutdown hit the value of #bitcoin &amp; fallen around 20% http://t.co/hogq5zlntz | http://t.co/ds3dflfz8b
+233----->underground drugs market website 'silk road' founder arrested by fbi http://t.co/hogq5zlntz #security | http://t.co/laif0y5er0
+234----->how solarwinds log &amp; event manager can help you for monitoring #security events? http://t.co/g1qokge1cu
+235----->hacker news paper http://t.co/tteo8uzylh is out! http://t.co/hiid2zl0wu
+236----->whats your email #security worth? yahoo insulted researcher with $12.50 bug bounty for reporting vulnerabilities http://t.co/s8quacpq1j
+237----->using outdated #android firefox browser? plz update now! hackers can steal your private data using a #vulnerability http://t.co/sbvutax0cl
+238----->importance of logs and log management for it #security http://t.co/g1qokge1cu #infosec
+239----->us government shutdown :  details on whitehouse website http://t.co/pwmtjgpuv3
+240----->us government shutdown :  details on whitehouse website http://t.co/pwmtjgpuv3
+241----->government shutdown : because congress did not fulfill its responsibility to pass a budget,  much of the federal government  will shut down.
+242----->nasa.gov website also goes down !
+243----->#nsa websites, "due to the government shutdown, this site is not being updated." http://t.co/ganpjbaore | http://t.co/s7sjw1aftd
+244----->edward #snowden has been shortlisted for a top human rights award "sakharov prize". winner will be announced on 10th oct #nsa #prism
+245----->what ??  &gt;&gt; #nist closed, nist and affiliated web sites not available http://t.co/srumnyzcqk | http://t.co/clfsozyvy5
+246----->rt @assolini: .@helenhelsrm opening #vb2013 http://t.co/cys7wnihc7
+247----->apple seeds #ios 7.0.3 to employees, testing partners http://t.co/vl0ztk5tel
+248----->rt @securityshell: jsql injection v.0.5 released - https://t.co/tcdiupemha
+249----->yahoo! discourages #security researchers with just $12.50 bug bounty for #vulnerability reporting http://t.co/s8quacpq1j
+250----->rt @antiproject: zanti2 beta testing? check this out https://t.co/k7llyxy6xa
+251----->@antiproject looking forward to test this awesome app ;)
+252----->himan exploit kit - "hello #malware" http://t.co/do0gyshquf via @kafeine | http://t.co/ktbkp3bxvr
+253----->hackers can steal your private data from the #android device sd card , if you have #firefox browser installed on it http://t.co/sbvutax0cl
+254----->critical #android's firefox app #vulnerability allows hacker to steal files from sd card http://t.co/sbvutax0cl #security
+255----->#live now google analytics summit 2013.. http://t.co/xas5vtlrv1 http://t.co/0q9vo6ncef
+256----->hacker news paper http://t.co/tteo8uzylh is out! http://t.co/hiid2zl0wu  top stories today via @hackers_conf
+257----->rt @hackers_conf: evil genius - syrian electronic army  .. they hacked into globalpost's twitter &amp; website on publishing wrong info http://
+258----->rt @hackers_conf: come on ! not again apple .. #ios 7.0.2 #iphone lockscreen #vulnerability http://t.co/ulz0uctfbo
+259----->rt @hackers_conf: can we trust our #vpn providers ?? proxy.sh silently sniffed the customer's data to catch a hacker http://t.co/8pzgoc4ekk
+260----->rt @hackers_conf: can we trust our #vpn providers ?? proxy.sh silently sniffed the customer's data to catch a hacker http://t.co/8pzgoc4ekk
+261----->rt @hackers_conf: iranian hackers infiltrated us navy computers http://t.co/pzlykoeeql via @thehackersnews @alienvault #revengetime #securi
+262----->rt @securityshell: ios 7 security settings and recommendations http://t.co/0ppj9agksy
+263----->rt @alienvault: iranian hackers infiltrated us navy computers http://t.co/q8eikmy64z via @thehackersnews
+264----->update: @official_sea16 targeted globalpost bcoz they published innocent peoples' names as "sea members" http://t.co/lsbkoszni6
+265----->vpn provider 'proxy.sh' sniffed the traffic of us based server to catch hackers http://t.co/qh4gl7ddxn #security
+266----->rt @anonymouspress: globalpost's twitter account &amp; website hacked by syrian electronic army http://t.co/tszkwoiikd #sea v @security_wang
+267----->warning by @official_sea16 &gt; "think twice before you publish untrusted informations about syrian electronic army" http://t.co/lsbkoszni6
+268----->hacked globalpost's website admin panel &gt; http://t.co/lsbkoszni6 | http://t.co/fcsmvgqq7g
+269----->us news agency globalpost's twitter and website hacked by syrian electronic army http://t.co/lsbkoszni6 #security | http://t.co/lbrpv9mscc
+270----->#ios 7.0.2 was released to fix some lockscreen bugs in #iphone, but another lockscreen #vulnerability comes up http://t.co/tsfmkms35a
+271----->another #iphone lockscreen bypass #vulnerability found in #ios 7.02 http://t.co/tsfmkms35a #security
+272----->iranian hackers have penetrated unclassified us navy computers, serious intrusion within the government network http://t.co/zlvofnjghm
+273----->hacker news paper http://t.co/tteo8uzylh is out! http://t.co/hiid2zl0wu
+274----->iranian hackers infiltrated us navy computers http://t.co/wmds4lq7ms #security via @securityaffairs
+275----->rt @securityshell: wtf http://t.co/fghgflgxt1
+276----->rt @sectechno: watcher web passive vulnerability scanner http://t.co/aadbdvpivk
+277----->rt @hackers_conf: so #iphone5s #touchid is not scanning fingerprints strictly,major loophole in thumb impression uniqueness http://t.co/1dv
+278----->rt @3bdullla:         iphone5s         !
+http://t
+279----->rt @securityaffairs: new touchid hack by iranian team works also on ios 7_0_2
+http://t.co/accg07s1vn
+#securityaffairs #ios #apple #hacking
+280----->rt @securityaffairs: new touchid hack by iranian team works also on ios 7_0_2
+http://t.co/accg07s1vn
+#securityaffairs #ios #apple #hacking
+281----->hacker news paper http://t.co/tteo8uzylh is out! http://t.co/hiid2zl0wu
+282----->an #iphone can be unlocked by multiple users,if their fingerprint resembles 20-30% with owner's fingerprint http://t.co/obscptvspd #touchid
+283----->video demo of new iphone's #touchid hack; unlock an #iphone with multiple fingerprints http://t.co/obscptvspd | http://t.co/mtlg2cczqw
+284----->iranian group defeated the basic phenomenon of an #iphone fingerprinting scanner "no two are exactly alike" http://t.co/obscptvspd #security
+285----->exclusive : new #touchid hack allows hacker (iranian group) to unlock an #iphone by multiple fingerprints http://t.co/obscptvspd #security
+286----->rt @security_wang: just tested... another #iphone #touchid hack by iranian group,also tested by @jiten_jain @unix_root; stay tuned to @theh
+287----->maskme - block spam with disposable emails and protect your passwords https://t.co/cngkbufg77 via @4ngrycpu
+288----->hahahahahahahah.... another awesome #touchid hack, we are about to release in next few hours. #apple #fingerprint technology ruined.
+289----->donottrackme - protects your privacy by blocking online tracking https://t.co/kmqo0mmi7e via @4ngrycpu
+290----->senator feinstein admits the #nsa taps the internet backbone: https://t.co/5nhprl3jn0 via @ioerror
+291----->#nsa's contact-chaining procedures to allow better, faster analysis http://t.co/9m7mlq2dpf
+292----->relationship graphing data model used by #nsa for targeting and graphing of social networks http://t.co/bdihqeurpq
+293----->rt @ioerror: nsa "...has been exploiting its huge collections of data to create sophisticated graphs..." http://t.co/mlqjilvjjw
+294----->rt @ioerror: #nsa #synapse data model: http://t.co/fa5odekvdw #mainway
+295----->rt @ioerror: the #nsa program #mainway interacts with #utt and #octave data: http://t.co/fa5odekvdw
+296----->rt @ioerror: relationship graphing data model used by #nsa for targeting and graphing of social networks: http://t.co/fa5odekvdw http://t.c
+297----->rt @publicanonnews: the most powerful weapon you can be is an instrument of #truth. #anonymous http://t.co/ykevwvvckz
+298----->rt @hackers_conf: uk detention of reprieve activist consistent with nsa's view of drone opponents as 'threats' and 'adversaries': http://t.
+299----->rt @hackers_conf: detecting #android #malware with the help of machine learning -- http://t.co/gxorbtggg0
+300----->rt @hackers_conf: detecting #android #malware with the help of machine learning -- http://t.co/gxorbtggg0
+301----->rt @hackers_conf: @wikileaks's sarah harrison: the unsung hero of the #nsa revelations http://t.co/gybbrhmnhw
+302----->rt @hackers_conf: detected more than 6000 #xss vulnerabilities within the alexa top 5000 web sites http://t.co/zqo4tdbhro
+303----->rt @hackers_conf: the n.s.a. gathers data on social connections of u.s. citizens  http://t.co/kt8xg6igpi
+304----->rt @hackers_conf: want to hide your ip address and keeping yourself #anonymous on the internet ? download #tor browser http://t.co/069gwkaa
+305----->rt @hackers_conf: 16-year-old school boy arrested for involvement in the world's biggest #ddos attack (300gbps) ever http://t.co/ddwnrfbym1
+306----->rt @hackers_conf: #fbi arrested 19-year-old hacker, who forced miss teen usa's to strip on webcam http://t.co/bxcg3o8zdq #security
+307----->rt @hackers_conf: hacker sold personal data of 4 million us citizens online at 50 cents to $2.50 per record http://t.co/78wd3zp7zg #security
+308----->rt @hackers_conf: another chinese #apt campaign, dubbed 'icefog' targeted military contractors and governments http://t.co/p6arxspy6x #secu
+309----->rt @hackers_conf: #tor browser bundle 3.0alpha4 released http://t.co/069gwkaark  #download #security #anonymous
+310----->rt @hackers_conf: using #iphone ios7 ? please upgrade to #ios 7.0.2 version to fix lock screen #security bug : http://t.co/am8cjgid3f
+311----->rt @quequero: ollydbg v2.01 just released: http://t.co/4iabisvglz
+312----->rt @soaj1664ashar: if you want to see "sanitize_html()" function that is not sanitizing html properly, give it a try here: http://t.co/tldq
+313----->hacker news paper http://t.co/tteo8uzylh is out! http://t.co/hiid2zl0wu  top stories today via @security_wang
+314----->rt @security_wang: #nsa chief, general alexander defends us #surveillance programs as a noble mission http://t.co/q2wvahy8xj via @thehacker
+315----->rt @security_wang: thousands of wordpress blogs compromised to perform ddos attack http://t.co/vp4zkau5pc
+316----->rt @security_wang: mailbox iphone app vulnerability executes any javascript from html mail body http://t.co/4q1gg7i9jh
+317----->rt @security_wang: update : apple has just released #ios 7.0.2, including a fix for a lock screen passcode #vulnerability http://t.co/gim6a
+318----->want to hide your ip address and keeping yourself #anonymous on the internet ? download #tor browser http://t.co/rybzyh63h4 #security
+319----->rt @agilerod: turning your iphone or android camera into microscope http://t.co/7q9zygfftu via @thehackersnews #security
+320----->rt @agilerod: turning your iphone or android camera into microscope http://t.co/7q9zygfftu via @thehackersnews #security
+321----->a 16-year-old school boy arrested for involvement in the world's biggest ddos attack (300gbps) ever http://t.co/bqzqyfcngi
+322----->fbi arrested 19-year-old hacker, who forced miss teen usa's to strip on webcam http://t.co/hataafhh1a #security
+323----->hacker sold personal data of 4 million us citizens online at 50 cents to $2.50 per record http://t.co/cugmtqgrol #security #idtheft
+324----->16-year-old teenager arrested for world's biggest cyber attack ever http://t.co/bqzqyfcngi #security
+325----->another chinese #apt campaign, dubbed 'icefog' targeted military contractors and governments http://t.co/xyipzafqxg #security #espionage
+326----->a stealth hard-drive backdoor https://t.co/tdozvhcpus #security #malware
+327----->#tor browser bundle 3.0alpha4 released http://t.co/rybzyh63h4 #download #security #anonymous
+328----->@torproject , i guess the blog author by mistake wrote "the third alpha release" in the first line, shouldn't it be alpha release ?
+329----->finally, bill gates admits "control-alt-delete" was a mistake, initially designed to efficiently reboot a computer http://t.co/4d4zs3ekyt
+330----->another chinese #apt campaign, dubbed icefog, targeted governmental institutions and military contractors http://t.co/xyipzafqxg #security
+331----->kids these days!! 16-year-old arrested for world's biggest #ddos http://t.co/bqzqyfcngi &amp; 19-year-old for #sextortion http://t.co/hataafhh1a
+332----->hacker news paper http://t.co/tteo8uzylh is out! http://t.co/hiid2zl0wu
+333----->16-year-old teenager arrested for world's biggest cyber attack ever against #spamhaus. http://t.co/bqzqyfcngi #security #ddos
+334----->using #iphone ios7 ? please upgrade to #ios 7.0.2 version to fix lock screen #security bug : http://t.co/pugyb7dls3
+335----->using #wordpress blogs ? your website could be the part of many #ddos attacks ! please review your #security again http://t.co/xsl6dsgwdx
+336----->rt @ioerror: uk detention of reprieve activist consistent with nsa's view of drone opponents as 'threats' and 'adversaries': http://t.co/kf
+337----->19-year-old hacker arrested for forcing several women to strip on webcam http://t.co/hataafhh1a #security #sextortion http://t.co/0qe47h57yl
+338----->using mailbox #iphone app ? it's vulnerable to hackers, please migrate to another e-mail app  #security &gt; http://t.co/ttk6sbfp3y
+339----->big data brokers hacked by a group that sells personal information to id thieves http://t.co/lmpadlobwt #security #thn
+340----->big data brokers hacked by a group that sells personal information to id thieves http://t.co/lmpadlobwt #security #thn
+341----->fbi arrested 19-year-old hacker for #sextortion; allegedly hacked into miss teen usa's webcam http://t.co/hataafhh1a #security
+342----->masscan: mass ip port scanner https://t.co/mek6zqpdmu by @erratarob via @securityshell
+343----->rt @m_spreitz: detecting android malware with the help of machine learning --http://t.co/vb6j8dzdzc
+344----->@twitter launches #alert feature for helping users get important info during emergencies or natural disasters https://t.co/fznpas4mud
+345----->update : linus torvalds cleared that the government never asked him for a backdoor in #linux. he was just joking http://t.co/04bjhxgohy
+346----->happy 15th birthday @google , but boy ..you are still under 18 ;) cheers http://t.co/t6vkmy9uah
+347----->you can watch #brucon hacking conference live at http://t.co/bowsttrkc0 via @brucon @securityshell
+348----->paypal has acquired chicago-based payments gateway braintree, in an all-cash deal worth $800 million
+349----->rt @security_wang: hacker sold personal data of 4 million us citizens online; risk of potential identity theft http://t.co/6nweee8pkn #secu
+350----->hacker sold personal data of 4 million us citizens online; risk of potential identity theft :: http://t.co/cugmtqgrol #security
+351----->@google 's first worldwide headquarter http://t.co/9e3nbf9mvn via @susanwojcicki
+352----->rt @zer0byt3: happy birthday to the biggest stalker of all time ... google ..
+353----->great ... @ookla released speedtest 3.0 for #android to the google play store http://t.co/k9d5pltow9
+354----->why google is not interested in implementing master password for #chrome @googlechrome | via @maxxmannheimer | http://t.co/mubn77vkfx
+355----->@cryptomeorg has filed a #foia on the #snowden #nsa docs! http://t.co/p1djijidie
+356----->rt @unix_root: wtf !! hahahahahaha.... #obama #nsa http://t.co/9w0eodqfci
+357----->@wikileaks's sarah harrison: the unsung hero of the #nsa revelations http://t.co/pgnklqkftj
+358----->sandboxing technology to isolate malware:  http://t.co/tm5uxv3jtk via @statetech
+359----->rt @assolini: ios 7.0.2 is out, patching lockscreen passcode vulnerability http://t.co/xrtwzlvgxy http://t.co/hojfsmzaki (via @thehackersne
+360----->rt @assolini: ios 7.0.2 is out, patching lockscreen passcode vulnerability http://t.co/xrtwzlvgxy http://t.co/hojfsmzaki (via @thehackersne
+361----->update your #ios to version 7.0.2 &amp; patching lockscreen passcode #vulnerability http://t.co/rkcoexpoy8 | #security | http://t.co/bade8txswm
+362----->update : apple has just released #ios 7.0.2, including a fix for a lock screen passcode #vulnerability http://t.co/rkcoexpoy8 #security
+363----->detected more than 6000 #xss vulnerabilities within the alexa top 5000 web sites http://t.co/whbdrreoxn
+364----->#security flaw allows unwanted code execution in mailbox #iphone app http://t.co/xz0vulkiss
+365----->thousands of wordpress blogs compromised using brute force attack to perform #ddos attack http://t.co/e4twfq30al #security #botnet
+366----->mailbox #iphone app #vulnerability executes any javascript from html mail body http://t.co/xz0vulkiss #security
+367----->ca student hacks into e-taxation accounts of popular cricketers and film stars http://t.co/176yyctszd #security
+368----->chartered accountant student hacks into celebrities @sachin_rt,@iamsrk,@beingsalmankhan e-taxation account http://t.co/176yyctszd #security
+369----->hacker news paper http://t.co/tteo8uzylh is out! http://t.co/hiid2zl0wu
+370----->#nsa director - general alexander defends us #surveillance programs as a noble mission http://t.co/tx3dm1d5ld #security #prism
+371----->@trojan7sec @unix_root ddos attack last for few hours. in article we showed logs of 26 secs only, that cover 569 blogs. now imagine :)
+372----->more than 70% of #wordpress installations are vulnerable to hackers http://t.co/e4twfq30al | http://t.co/fmlp8lziau #security
+373----->rt @unix_root: more than 70% of #wordpress installations are vulnerable to hackers http://t.co/okynvl2q6a | http://t.co/4pgjjr4nay
+374----->exclusive : thousands of #wordpress blogs were compromised to perform #ddos attack http://t.co/e4twfq30al #security
+375----->#nsa chief, general alexander appealed to the public to support the #surveillance effort to protect the nation http://t.co/tx3dm1d5ld
+376----->#nsa chief, general alexander defends us #surveillance programs as a noble mission http://t.co/tx3dm1d5ld #security
+377----->analysis of the fbi tor #malware | #security | http://t.co/hclz7v6tuc | http://t.co/ka27p979xz
+378----->give solarwinds log &amp; event manager a test drive, that allows you to explore the features on your own time! http://t.co/dayunnlbdu
+379----->@arbornetworks also confirmed the #sudan internet blackout :  http://t.co/imdrpsxotc  | http://t.co/zvwbhgdgzk
+380----->@arbornetworks also confirmed the #sudan internet blackout :  http://t.co/imdrpsxotc  | http://t.co/zvwbhgdgzk
+381----->hacker news paper http://t.co/tteo8uzylh is out! http://t.co/hiid2zl0wu  top stories today via @security_wang @hackers_conf
+382----->phishers are targeting #social sites! @marianmerritt has advice on how to prevent #malware attacks: http://t.co/d1rju46tms
+383----->#sudan has cut itself off from global internet at 12:47utc, amid riots in khartoum via @renesys | http://t.co/5dd15qaroi
+384----->rt @crypt0nymous: new mac os malware exploited two known java vulnerabilities http://t.co/vxlosz3bad #apple
+385----->rt @hackers_conf: #iphone5s users fooled by apple, #nsa &amp; a fake middle finger http://t.co/vdux82tm5a #security
+386----->rt @hackers_conf: now you can remotely lock, wipe &amp; locate your #android device with the help of "android device manager" http://t.co/z9mli
+387----->rt @hackers_conf: people of the world !! stop using internet explore;  zero-day exploit used in watering hole attacks http://t.co/rmouxo8qq
+388----->rt @hackers_conf: another apple's #mac os #malware exploited in wild http://t.co/bfhvkqum7f #security
+389----->#iphone5s users fooled by apple, nsa and a fake middle finger #security http://t.co/dbmutflcwm |  http://t.co/huhfemqcwv
+390----->subscribe @thehackersnews on #feedly &amp; receive all article containing latest it #security and #hacking news updates http://t.co/bkw5zi8bdd
+391----->rt @crypt0nymous: iphone 5s users fooled by #apple, #nsa and a fake middle finger http://t.co/jmwz9ey4sy
+392----->#android device manager allows user to lock, wipe and locate device remotely http://t.co/i8dtlif1fs #security
+393----->amazon 'wish list' is gateway to epic social engineering hack http://t.co/ui8nchcnxw via @cbsnews
+394----->#iphone5s #touchid http://t.co/huhfemqcwv
+395----->#iphone 5s users fooled by apple, #nsa &amp; a fake middle finger http://t.co/fevwj0bjrw #security @tsnonndtv @3bdullla @kevinmitnick @kimdotcom
+396----->#iphone5s users fooled by apple, #nsa and a fake middle finger http://t.co/fevwj0bjrw #security
+397----->"we are browsers" lol :d http://t.co/wustcmmqzv
+398----->new trojan for apple's mac os http://t.co/sblrroonfd #security
+399----->internet explorer zero-day exploit used watering hole attacks to target japanese users http://t.co/4fwvha8kqb #security
+(1, '"#nsa')
+--------------
+(1, '"...has')
+--------------
+(1, '"all')
+--------------
+(1, '"android')
+--------------
+(1, '"bug')
+--------------
+(1, '"control-alt-delete')
+--------------
+(1, '"due')
+--------------
+(1, '"hacked')
+--------------
+(1, '"hello')
+--------------
+(1, '"paunch"')
+--------------
+(1, '"safe')
+--------------
+(1, '"sakharov')
+--------------
+(1, '"sanitize_html()')
+--------------
+(1, '"sea')
+--------------
+(1, '"silkroad')
+--------------
+(1, '"the')
+--------------
+(1, '"think')
+--------------
+(1, '"we')
+--------------
+(1, '"with')
+--------------
+(1, '#0day,was')
+--------------
+(1, '#acrobat')
+--------------
+(1, '#alert')
+--------------
+(1, "#android's")
+--------------
+(1, '#antivirus')
+--------------
+(1, '#aslr')
+--------------
+(1, '#avira')
+--------------
+(1, '#backdoor')
+--------------
+(1, '#baidu')
+--------------
+(1, '#botnet')
+--------------
+(1, '#brucon')
+--------------
+(1, '#bugbounty')
+--------------
+(1, '#chrome')
+--------------
+(1, '#cyberattacks')
+--------------
+(1, '#cybersecuri')
+--------------
+(1, '#dom')
+--------------
+(1, '#duckduckgo')
+--------------
+(1, '#encryption')
+--------------
+(1, '#eset')
+--------------
+(1, '#exploit')
+--------------
+(1, '#fail')
+--------------
+(1, '#feedly')
+--------------
+(1, '#fingerprint')
+--------------
+(1, '#foia')
+--------------
+(1, '#freeantivirus')
+--------------
+(1, '#fridayfollow')
+--------------
+(1, '#gmail')
+--------------
+(1, '#hacked')
+--------------
+(1, '#hackers')
+--------------
+(1, '#hitb2013kul')
+--------------
+(1, '#idtheft')
+--------------
+(1, '#keylogger')
+--------------
+(1, '#leaseweb')
+--------------
+(1, '#live')
+--------------
+(1, '#macos')
+--------------
+(1, '#makerfairerome')
+--------------
+(1, '#malwares')
+--------------
+(1, "#megaupload's")
+--------------
+(1, '#ncsam')
+--------------
+(1, '#nist')
+--------------
+(1, '#nmap')
+--------------
+(1, "#nsa's")
+--------------
+(1, '#obama')
+--------------
+(1, '#octave')
+--------------
+(1, '#osint')
+--------------
+(1, '#pentest')
+--------------
+(1, '#reader')
+--------------
+(1, '#revengetime')
+--------------
+(1, '#root')
+--------------
+(1, '#russian')
+--------------
+(1, '#samsung')
+--------------
+(1, '#scada')
+--------------
+(1, '#se')
+--------------
+(1, '#sea')
+--------------
+(1, '#secur')
+--------------
+(1, '#securiy')
+--------------
+(1, '#siri')
+--------------
+(1, '#social')
+--------------
+(1, '#spamhaus')
+--------------
+(1, '#synapse')
+--------------
+(1, '#terrorism')
+--------------
+(1, '#truth')
+--------------
+(1, '#ucbrowser')
+--------------
+(1, '#utt')
+--------------
+(1, '#vb2013')
+--------------
+(1, '#viber')
+--------------
+(1, '#virus')
+--------------
+(1, '#vulnerabilities')
+--------------
+(1, '#vulnerabilityin')
+--------------
+(1, '#vulnerable')
+--------------
+(1, '#wikileaks')
+--------------
+(1, '#windows')
+--------------
+(1, '#wtf')
+--------------
+(1, '$100,000')
+--------------
+(1, '$12.5')
+--------------
+(1, '$5,000')
+--------------
+(1, '$5bn')
+--------------
+(1, '$80')
+--------------
+(1, '$800')
+--------------
+(1, '$85')
+--------------
+(1, "'#duckduckgo")
+--------------
+(1, "'basically")
+--------------
+(1, "'johnny")
+--------------
+(1, "'proxy.sh")
+--------------
+(1, "'s")
+--------------
+(1, "'silk")
+--------------
+(1, "'syrian")
+--------------
+(1, "'we")
+--------------
+(1, "'wish")
+--------------
+(1, '(chinese')
+--------------
+(1, '(ie11')
+--------------
+(1, '(iranian')
+--------------
+(1, '(new')
+--------------
+(1, '(pdf')
+--------------
+(1, '(search')
+--------------
+(1, '(seems')
+--------------
+(1, '(vulnerable')
+--------------
+(1, ',via')
+--------------
+(1, '--http://t.co/vb6j8dzdzc')
+--------------
+(1, '..you')
+--------------
+(1, '.@helenhelsrm')
+--------------
+(1, '/')
+--------------
+(1, '/@_dark_knight')
+--------------
+(1, '0.02')
+--------------
+(1, "1.don't")
+--------------
+(1, '100')
+--------------
+(1, '10th')
+--------------
+(1, '11')
+--------------
+(1, '11th')
+--------------
+(1, '12:47utc')
+--------------
+(1, '1300')
+--------------
+(1, '15')
+--------------
+(1, '15,000')
+--------------
+(1, '15th')
+--------------
+(1, '17-years-old')
+--------------
+(1, '18')
+--------------
+(1, '192')
+--------------
+(1, '2')
+--------------
+(1, '2.3')
+--------------
+(1, '2.4')
+--------------
+(1, '2.5')
+--------------
+(1, '2.6')
+--------------
+(1, '2.7')
+--------------
+(1, '2.8')
+--------------
+(1, '2.9m')
+--------------
+(1, "2.don't")
+--------------
+(1, '20-30')
+--------------
+(1, '2013')
+--------------
+(1, '2013.')
+--------------
+(1, '22')
+--------------
+(1, '26000(seized')
+--------------
+(1, '27,365.89919925')
+--------------
+(1, '29-year-old')
+--------------
+(1, '2nd')
+--------------
+(1, '3gbs')
+--------------
+(1, '400')
+--------------
+(1, '569')
+--------------
+(1, '6')
+--------------
+(1, '600000(encrypted')
+--------------
+(1, '7')
+--------------
+(1, '7.0.3')
+--------------
+(1, '7.02')
+--------------
+(1, '8.1')
+--------------
+(1, ':-\\')
+--------------
+(1, ';-')
+--------------
+(1, '@6o57')
+--------------
+(1, '@9to5mac')
+--------------
+(1, '@_cypherpunks_')
+--------------
+(1, '@_defcon')
+--------------
+(1, '@_g12')
+--------------
+(1, '@adobe')
+--------------
+(1, '@adobesecurity')
+--------------
+(1, '@aljazarah')
+--------------
+(1, '@allshiny')
+--------------
+(1, '@amvlad')
+--------------
+(1, '@avgfree')
+--------------
+(1, '@barackobama')
+--------------
+(1, '@brucon')
+--------------
+(1, '@catalincosoi')
+--------------
+(1, '@cbsnews')
+--------------
+(1, '@crichton_eu')
+--------------
+(1, '@cryptomeorg')
+--------------
+(1, '@debian')
+--------------
+(1, '@dennisrand')
+--------------
+(1, '@dinosn')
+--------------
+(1, '@dollarvigilante')
+--------------
+(1, '@enfoqueseguro')
+--------------
+(1, '@erratarob')
+--------------
+(1, '@ew')
+--------------
+(1, '@feardept')
+--------------
+(1, '@firefox')
+--------------
+(1, '@g0summit')
+--------------
+(1, '@gcluley')
+--------------
+(1, '@googleandroidos')
+--------------
+(1, '@googlechrome')
+--------------
+(1, '@googleplay,it')
+--------------
+(1, '@guardianproject')
+--------------
+(1, '@hocupdate')
+--------------
+(1, '@integosecurity')
+--------------
+(1, '@kevinmitnick')
+--------------
+(1, '@linuxfoundation')
+--------------
+(1, '@m_spreitz')
+--------------
+(1, '@marianmerritt')
+--------------
+(1, '@matteoca')
+--------------
+(1, '@maxxmannheimer')
+--------------
+(1, '@michelle9647')
+--------------
+(1, '@mikko')
+--------------
+(1, '@mybitgo')
+--------------
+(1, '@netik')
+--------------
+(1, '@nirgoldshlager')
+--------------
+(1, '@official_roy')
+--------------
+(1, '@ookla')
+--------------
+(1, '@pod2g')
+--------------
+(1, '@quequero')
+--------------
+(1, '@r00t_me')
+--------------
+(1, '@rafaybaloch')
+--------------
+(1, '@razoreqx')
+--------------
+(1, '@redhackeditor')
+--------------
+(1, '@renesys')
+--------------
+(1, '@runasand')
+--------------
+(1, '@sachin_rt,@iamsrk,@beingsalmankhan')
+--------------
+(1, '@sambowne')
+--------------
+(1, '@sectechno')
+--------------
+(1, "@silent_circle's")
+--------------
+(1, '@smarimc')
+--------------
+(1, '@statetech')
+--------------
+(1, '@susanwojcicki')
+--------------
+(1, '@telecomix')
+--------------
+(1, '@the')
+--------------
+(1, '@theh')
+--------------
+(1, '@thehacker')
+--------------
+(1, '@thehackersn')
+--------------
+(1, '@thehindu')
+--------------
+(1, '@thomasewoods')
+--------------
+(1, '@tripwireinc')
+--------------
+(1, '@trojan7sec')
+--------------
+(1, '@truthstreamnews')
+--------------
+(1, '@tsnonndtv')
+--------------
+(1, '@twitter')
+--------------
+(1, '@usatoday')
+--------------
+(1, '@vedantb')
+--------------
+(1, '@viaforensics')
+--------------
+(1, '@vigilantcanuck')
+--------------
+(1, '@vikram_nz')
+--------------
+(1, '@whatsapp')
+--------------
+(1, '@yahoo')
+--------------
+(1, '@youranonnews')
+--------------
+(1, '@zer0byt3')
+--------------
+(1, 'abound')
+--------------
+(1, 'abused')
+--------------
+(1, 'accept')
+--------------
+(1, 'accountant')
+--------------
+(1, 'acquired')
+--------------
+(1, 'admin')
+--------------
+(1, 'advertiser')
+--------------
+(1, 'advertising')
+--------------
+(1, 'advice')
+--------------
+(1, 'affiliated')
+--------------
+(1, 'agencies')
+--------------
+(1, 'agency')
+--------------
+(1, 'ago')
+--------------
+(1, 'agree')
+--------------
+(1, 'ak47')
+--------------
+(1, 'al-shabab')
+--------------
+(1, 'alike')
+--------------
+(1, 'all-cash')
+--------------
+(1, 'alleged')
+--------------
+(1, 'allegedly')
+--------------
+(1, 'allocation')
+--------------
+(1, 'amazing')
+--------------
+(1, 'amid')
+--------------
+(1, 'amplification')
+--------------
+(1, 'analytics')
+--------------
+(1, 'angels')
+--------------
+(1, 'apk')
+--------------
+(1, 'apks')
+--------------
+(1, 'appealed')
+--------------
+(1, 'application')
+--------------
+(1, 'arduino')
+--------------
+(1, 'arrest')
+--------------
+(1, 'asked')
+--------------
+(1, 'assad')
+--------------
+(1, 'asus')
+--------------
+(1, 'attacking')
+--------------
+(1, 'attempts')
+--------------
+(1, 'august')
+--------------
+(1, 'authentication')
+--------------
+(1, 'average')
+--------------
+(1, 'avg')
+--------------
+(1, 'avg,avira')
+--------------
+(1, 'avira')
+--------------
+(1, 'awareness')
+--------------
+(1, 'backbone')
+--------------
+(1, 'backdoors')
+--------------
+(1, 'badger')
+--------------
+(1, 'ballmer')
+--------------
+(1, 'ban')
+--------------
+(1, 'banned')
+--------------
+(1, 'base')
+--------------
+(1, 'basic')
+--------------
+(1, 'bazaar')
+--------------
+(1, 'bcoz')
+--------------
+(1, 'beta')
+--------------
+(1, 'blackhole')
+--------------
+(1, 'blocking')
+--------------
+(1, 'blog')
+--------------
+(1, 'box')
+--------------
+(1, 'braintree')
+--------------
+(1, 'breezy')
+--------------
+(1, 'broke')
+--------------
+(1, "browser's")
+--------------
+(1, 'browsers')
+--------------
+(1, 'brute')
+--------------
+(1, 'budget')
+--------------
+(1, 'built')
+--------------
+(1, 'ca')
+--------------
+(1, 'cache')
+--------------
+(1, 'called')
+--------------
+(1, 'calling')
+--------------
+(1, 'capabilities')
+--------------
+(1, 'capability')
+--------------
+(1, 'car')
+--------------
+(1, 'cards')
+--------------
+(1, 'case')
+--------------
+(1, 'celebrities')
+--------------
+(1, 'ceo')
+--------------
+(1, 'challenge')
+--------------
+(1, 'changing')
+--------------
+(1, 'chartered')
+--------------
+(1, 'chase')
+--------------
+(1, 'cheers')
+--------------
+(1, 'chicago-based')
+--------------
+(1, 'chinas')
+--------------
+(1, 'chrome')
+--------------
+(1, 'claim')
+--------------
+(1, 'claimed')
+--------------
+(1, 'claiming')
+--------------
+(1, 'claims')
+--------------
+(1, 'clean')
+--------------
+(1, 'cleared')
+--------------
+(1, 'closed')
+--------------
+(1, 'codes')
+--------------
+(1, 'coins')
+--------------
+(1, 'collections')
+--------------
+(1, 'commented')
+--------------
+(1, 'common')
+--------------
+(1, 'companies')
+--------------
+(1, 'complying')
+--------------
+(1, 'compromise')
+--------------
+(1, 'compromised,encrypted')
+--------------
+(1, 'computer')
+--------------
+(1, 'concern')
+--------------
+(1, 'conference')
+--------------
+(1, 'config')
+--------------
+(1, 'confirm')
+--------------
+(1, 'congress')
+--------------
+(1, 'connections')
+--------------
+(1, 'considerable')
+--------------
+(1, 'contact-chaining')
+--------------
+(1, 'content')
+--------------
+(1, 'control')
+--------------
+(1, 'cookie')
+--------------
+(1, 'cover')
+--------------
+(1, 'creating')
+--------------
+(1, 'cricketers')
+--------------
+(1, 'criminal')
+--------------
+(1, 'css')
+--------------
+(1, 'culprit')
+--------------
+(1, 'cut')
+--------------
+(1, 'd.c.')
+--------------
+(1, 'dangerous')
+--------------
+(1, 'dapper')
+--------------
+(1, 'dark')
+--------------
+(1, 'day')
+--------------
+(1, 'days!')
+--------------
+(1, 'deal')
+--------------
+(1, 'defeated')
+--------------
+(1, 'demanded')
+--------------
+(1, 'demo')
+--------------
+(1, 'department')
+--------------
+(1, 'depends')
+--------------
+(1, 'designed')
+--------------
+(1, 'detail')
+--------------
+(1, 'develop')
+--------------
+(1, 'developers')
+--------------
+(1, 'devfest')
+--------------
+(1, 'devoted')
+--------------
+(1, 'differences')
+--------------
+(1, 'director')
+--------------
+(1, 'disasters')
+--------------
+(1, 'disclosed')
+--------------
+(1, 'disclosure')
+--------------
+(1, 'discourages')
+--------------
+(1, 'discouraging')
+--------------
+(1, 'displayed')
+--------------
+(1, 'disposable')
+--------------
+(1, 'distribution')
+--------------
+(1, 'document')
+--------------
+(1, "domain's")
+--------------
+(1, 'donottrackme')
+--------------
+(1, 'downloaded')
+--------------
+(1, 'drake')
+--------------
+(1, 'drive')
+--------------
+(1, 'drug')
+--------------
+(1, 'drugs')
+--------------
+(1, 'dumping')
+--------------
+(1, 'e-mail')
+--------------
+(1, 'e-market')
+--------------
+(1, 'earn')
+--------------
+(1, 'easily')
+--------------
+(1, 'edgy')
+--------------
+(1, 'efficiently')
+--------------
+(1, 'effort')
+--------------
+(1, 'efforts')
+--------------
+(1, 'eft')
+--------------
+(1, 'eh')
+--------------
+(1, 'electric')
+--------------
+(1, 'emails')
+--------------
+(1, 'embassy')
+--------------
+(1, 'emergencies')
+--------------
+(1, 'emergency')
+--------------
+(1, 'employees')
+--------------
+(1, 'ended')
+--------------
+(1, 'enemies')
+--------------
+(1, 'engaged')
+--------------
+(1, 'engineering')
+--------------
+(1, 'epic')
+--------------
+(1, 'espionage')
+--------------
+(1, 'european')
+--------------
+(1, 'eve')
+--------------
+(1, 'events')
+--------------
+(1, 'ever,review')
+--------------
+(1, 'evil')
+--------------
+(1, 'execution')
+--------------
+(1, 'existence')
+--------------
+(1, 'existing')
+--------------
+(1, 'exists')
+--------------
+(1, 'exit')
+--------------
+(1, 'expanded')
+--------------
+(1, 'exploit[.]in')
+--------------
+(1, 'exploitation')
+--------------
+(1, 'exploiting')
+--------------
+(1, 'expose')
+--------------
+(1, 'exposed')
+--------------
+(1, 'eye')
+--------------
+(1, 'face')
+--------------
+(1, 'facebooks')
+--------------
+(1, 'faces')
+--------------
+(1, 'fallen')
+--------------
+(1, 'faster')
+--------------
+(1, 'fawn')
+--------------
+(1, 'feature')
+--------------
+(1, 'features')
+--------------
+(1, 'federal')
+--------------
+(1, 'federation')
+--------------
+(1, 'feinstein')
+--------------
+(1, 'feisty')
+--------------
+(1, 'file')
+--------------
+(1, 'filed')
+--------------
+(1, 'film')
+--------------
+(1, 'find')
+--------------
+(1, 'finding')
+--------------
+(1, 'fined')
+--------------
+(1, 'fingerprinting')
+--------------
+(1, 'firmware')
+--------------
+(1, 'fixed)')
+--------------
+(1, 'flash')
+--------------
+(1, 'flashable')
+--------------
+(1, 'force')
+--------------
+(1, 'forcefully')
+--------------
+(1, 'forensics')
+--------------
+(1, 'forward')
+--------------
+(1, 'fourteen')
+--------------
+(1, 'fraction')
+--------------
+(1, 'fraud')
+--------------
+(1, 'fraudsters')
+--------------
+(1, 'friend')
+--------------
+(1, 'front')
+--------------
+(1, 'fuck')
+--------------
+(1, 'fulfill')
+--------------
+(1, 'function')
+--------------
+(1, 'funny')
+--------------
+(1, 'galaxy')
+--------------
+(1, 'gathers')
+--------------
+(1, 'genius')
+--------------
+(1, 'gently')
+--------------
+(1, 'gibbon')
+--------------
+(1, 'glenn')
+--------------
+(1, 'globalpost')
+--------------
+(1, 'google,facebook')
+--------------
+(1, 'google,yahoo')
+--------------
+(1, 'google.my')
+--------------
+(1, 'gov')
+--------------
+(1, "gov't")
+--------------
+(1, 'governmental')
+--------------
+(1, 'govt')
+--------------
+(1, 'graphic')
+--------------
+(1, 'graphs...')
+--------------
+(1, 'great')
+--------------
+(1, 'greenwald')
+--------------
+(1, 'grid')
+--------------
+(1, 'group,also')
+--------------
+(1, 'guess')
+--------------
+(1, 'gutsy')
+--------------
+(1, 'hack,"all')
+--------------
+(1, 'hacking')
+--------------
+(1, 'hahahahahaha...')
+--------------
+(1, 'hahahahahahahah...')
+--------------
+(1, 'handles')
+--------------
+(1, 'hard-drive')
+--------------
+(1, 'hardware')
+--------------
+(1, 'hardy')
+--------------
+(1, 'hd')
+--------------
+(1, 'headquarter')
+--------------
+(1, 'helpdesk')
+--------------
+(1, 'helped')
+--------------
+(1, 'helping')
+--------------
+(1, "here're")
+--------------
+(1, 'heron')
+--------------
+(1, 'high')
+--------------
+(1, 'highlights')
+--------------
+(1, 'hijacking')
+--------------
+(1, 'himan')
+--------------
+(1, 'holds')
+--------------
+(1, "htc's")
+--------------
+(1, 'http:')
+--------------
+(1, 'http:/')
+--------------
+(1, 'http://t.c')
+--------------
+(1, 'http://t.co')
+--------------
+(1, 'http://t.co/04bjhxgohy')
+--------------
+(1, 'http://t.co/069gwkaa')
+--------------
+(1, 'http://t.co/069gwkaark')
+--------------
+(1, 'http://t.co/0ppj9agksy')
+--------------
+(1, 'http://t.co/0q9vo6ncef')
+--------------
+(1, 'http://t.co/0qe47h57yl')
+--------------
+(1, 'http://t.co/11ixcxzd')
+--------------
+(1, 'http://t.co/1dv')
+--------------
+(1, 'http://t.co/1kcb1osohu')
+--------------
+(1, 'http://t.co/2slrimwbqa')
+--------------
+(1, 'http://t.co/4d4zs3ekyt')
+--------------
+(1, 'http://t.co/4fwvha8kqb')
+--------------
+(1, 'http://t.co/4iabisvglz')
+--------------
+(1, 'http://t.co/4p72uybgdx')
+--------------
+(1, 'http://t.co/4pgjjr4nay')
+--------------
+(1, 'http://t.co/4q1gg7i9jh')
+--------------
+(1, 'http://t.co/5dd15qaroi')
+--------------
+(1, 'http://t.co/5yvcrzs7on')
+--------------
+(1, 'http://t.co/6bmgazsshr')
+--------------
+(1, 'http://t.co/6nweee8pkn')
+--------------
+(1, 'http://t.co/6pwutsr2')
+--------------
+(1, 'http://t.co/6siqqouymk')
+--------------
+(1, 'http://t.co/6xujtoyk5v')
+--------------
+(1, 'http://t.co/78wd3zp7zg')
+--------------
+(1, 'http://t.co/7dg')
+--------------
+(1, 'http://t.co/9e3nbf9mvn')
+--------------
+(1, 'http://t.co/9m7mlq2dpf')
+--------------
+(1, 'http://t.co/9w0eodqfci')
+--------------
+(1, 'http://t.co/a56p0kr6se')
+--------------
+(1, 'http://t.co/aadbdvpivk')
+--------------
+(1, 'http://t.co/am8cjgid3f')
+--------------
+(1, 'http://t.co/ao8jgokmfn')
+--------------
+(1, 'http://t.co/avctzxsuo')
+--------------
+(1, 'http://t.co/bade8txswm')
+--------------
+(1, 'http://t.co/bdihqeurpq')
+--------------
+(1, 'http://t.co/bfhvkqum7f')
+--------------
+(1, 'http://t.co/bfz7nucdge')
+--------------
+(1, 'http://t.co/bkw5zi8bdd')
+--------------
+(1, 'http://t.co/bowsttrkc0')
+--------------
+(1, 'http://t.co/bqyvasy71g')
+--------------
+(1, 'http://t.co/bt5num0y6y')
+--------------
+(1, 'http://t.co/bxcg3o8zdq')
+--------------
+(1, 'http://t.co/c4b9zk7bns')
+--------------
+(1, 'http://t.co/clfsozyvy5')
+--------------
+(1, 'http://t.co/cpxysbkdza')
+--------------
+(1, 'http://t.co/cys7wnihc7')
+--------------
+(1, 'http://t.co/d1rju46tms')
+--------------
+(1, 'http://t.co/d9ketseld7')
+--------------
+(1, 'http://t.co/dayunnlbdu')
+--------------
+(1, 'http://t.co/dbmutflcwm')
+--------------
+(1, 'http://t.co/dce1ol2czf')
+--------------
+(1, 'http://t.co/ddwnrfbym1')
+--------------
+(1, 'http://t.co/dhcahxaqph')
+--------------
+(1, 'http://t.co/do0gyshquf')
+--------------
+(1, 'http://t.co/donvqkoq37')
+--------------
+(1, 'http://t.co/ds3dflfz8b')
+--------------
+(1, 'http://t.co/egzwursi5h')
+--------------
+(1, 'http://t.co/fcsmvgqq7g')
+--------------
+(1, 'http://t.co/fghgflgxt1')
+--------------
+(1, 'http://t.co/fmlp8lziau')
+--------------
+(1, 'http://t.co/fp6csf9bn3')
+--------------
+(1, 'http://t.co/fth4dxjoxy')
+--------------
+(1, 'http://t.co/fv7oydaqtb')
+--------------
+(1, 'http://t.co/g81cm8golh')
+--------------
+(1, 'http://t.co/ganpjbaore')
+--------------
+(1, 'http://t.co/gdqupyb0k4')
+--------------
+(1, 'http://t.co/gim6a')
+--------------
+(1, 'http://t.co/gjrfgm5djl')
+--------------
+(1, 'http://t.co/gybbrhmnhw')
+--------------
+(1, 'http://t.co/gyxgd0yyfl')
+--------------
+(1, 'http://t.co/h8mqwylvrn')
+--------------
+(1, 'http://t.co/ha3jx0amqp')
+--------------
+(1, 'http://t.co/hclz7v6tuc')
+--------------
+(1, 'http://t.co/hh6bokl4hf')
+--------------
+(1, 'http://t.co/hrpllkrl57')
+--------------
+(1, 'http://t.co/i8dtlif1fs')
+--------------
+(1, 'http://t.co/ib0g4isppt')
+--------------
+(1, 'http://t.co/iimh4afnei')
+--------------
+(1, 'http://t.co/imd8mqk14s')
+--------------
+(1, 'http://t.co/ixdiiq6u74')
+--------------
+(1, 'http://t.co/jgsn0radyb')
+--------------
+(1, 'http://t.co/jmwz9ey4sy')
+--------------
+(1, 'http://t.co/jxglwojdgg')
+--------------
+(1, 'http://t.co/k9d5pltow9')
+--------------
+(1, 'http://t.co/ka27p979xz')
+--------------
+(1, 'http://t.co/kf')
+--------------
+(1, 'http://t.co/knxkvmuoqp')
+--------------
+(1, 'http://t.co/kt8xg6igpi')
+--------------
+(1, 'http://t.co/ktbkp3bxvr')
+--------------
+(1, 'http://t.co/kyz16pzmxc')
+--------------
+(1, 'http://t.co/l1wo9f1c5x')
+--------------
+(1, 'http://t.co/l8cirrlhif')
+--------------
+(1, 'http://t.co/laif0y5er0')
+--------------
+(1, 'http://t.co/lbrpv9mscc')
+--------------
+(1, 'http://t.co/lrc7wc0mgn')
+--------------
+(1, 'http://t.co/lrxiuq9fq0')
+--------------
+(1, 'http://t.co/miccyo2uji')
+--------------
+(1, 'http://t.co/mlqjilvjjw')
+--------------
+(1, 'http://t.co/mn5ispglfu')
+--------------
+(1, 'http://t.co/mpn')
+--------------
+(1, 'http://t.co/mpnmejjbvk')
+--------------
+(1, 'http://t.co/mrkqlnjszr')
+--------------
+(1, 'http://t.co/mrrmkl1wz1')
+--------------
+(1, 'http://t.co/mtlg2cczqw')
+--------------
+(1, 'http://t.co/mubn77vkfx')
+--------------
+(1, 'http://t.co/mzh')
+--------------
+(1, 'http://t.co/na0mcq5pew')
+--------------
+(1, 'http://t.co/naftso2hts')
+--------------
+(1, 'http://t.co/njn8htdrfl')
+--------------
+(1, 'http://t.co/okynvl2q6a')
+--------------
+(1, 'http://t.co/p1djijidie')
+--------------
+(1, 'http://t.co/p6arxspy6x')
+--------------
+(1, 'http://t.co/p7byovc7hq')
+--------------
+(1, 'http://t.co/pgnklqkftj')
+--------------
+(1, 'http://t.co/pugyb7dls3')
+--------------
+(1, 'http://t.co/pvvt98pwf8')
+--------------
+(1, 'http://t.co/pzlykoeeql')
+--------------
+(1, 'http://t.co/q2wvahy8xj')
+--------------
+(1, 'http://t.co/q8eikmy64z')
+--------------
+(1, 'http://t.co/qh4gl7ddxn')
+--------------
+(1, 'http://t.co/qhjmjslfds')
+--------------
+(1, 'http://t.co/qxfidwr9ol')
+--------------
+(1, 'http://t.co/r28ipgwm6b')
+--------------
+(1, 'http://t.co/rmouxo8qq')
+--------------
+(1, 'http://t.co/s7sjw1aftd')
+--------------
+(1, 'http://t.co/sblrroonfd')
+--------------
+(1, 'http://t.co/sofhqwp2l9')
+--------------
+(1, 'http://t.co/srumnyzcqk')
+--------------
+(1, 'http://t.co/t6vkmy9uah')
+--------------
+(1, 'http://t.co/tldq')
+--------------
+(1, 'http://t.co/tm5uxv3jtk')
+--------------
+(1, 'http://t.co/tobp')
+--------------
+(1, 'http://t.co/tszkwoiikd')
+--------------
+(1, 'http://t.co/ttk6sbfp3y')
+--------------
+(1, 'http://t.co/tzsk0ynum0')
+--------------
+(1, 'http://t.co/uhhdoxq8sb')
+--------------
+(1, 'http://t.co/ui8nchcnxw')
+--------------
+(1, 'http://t.co/ujpiriwgku')
+--------------
+(1, 'http://t.co/ujyugyu3vs')
+--------------
+(1, 'http://t.co/ulz0uctfbo')
+--------------
+(1, 'http://t.co/uujjgz5osw')
+--------------
+(1, 'http://t.co/uxxogvqsxr')
+--------------
+(1, 'http://t.co/v9qps6khno')
+--------------
+(1, 'http://t.co/v9soggslkq')
+--------------
+(1, 'http://t.co/vcavyqtoxc')
+--------------
+(1, 'http://t.co/vdux82tm5a')
+--------------
+(1, 'http://t.co/vl0ztk5tel')
+--------------
+(1, 'http://t.co/vp4zkau5pc')
+--------------
+(1, 'http://t.co/vtbcznh4lf')
+--------------
+(1, 'http://t.co/vxlosz3bad')
+--------------
+(1, 'http://t.co/waboe70vzc')
+--------------
+(1, 'http://t.co/wf9brbo60u')
+--------------
+(1, 'http://t.co/whbdrreoxn')
+--------------
+(1, 'http://t.co/wmds4lq7ms')
+--------------
+(1, 'http://t.co/wustcmmqzv')
+--------------
+(1, 'http://t.co/wxvcrtwoqs')
+--------------
+(1, 'http://t.co/xas5vtlrv1')
+--------------
+(1, 'http://t.co/xbazacg8f3')
+--------------
+(1, 'http://t.co/xgubuarfv9')
+--------------
+(1, 'http://t.co/xsl6dsgwdx')
+--------------
+(1, 'http://t.co/xwjk7488rb')
+--------------
+(1, 'http://t.co/yfnymalevd')
+--------------
+(1, 'http://t.co/yhp1afqlon')
+--------------
+(1, 'http://t.co/ykevwvvckz')
+--------------
+(1, 'http://t.co/ykuj7wdsix')
+--------------
+(1, 'http://t.co/yncm3dubnz')
+--------------
+(1, 'http://t.co/z6b0udomqk')
+--------------
+(1, 'http://t.co/z9mli')
+--------------
+(1, 'http://t.co/zlvofnjghm')
+--------------
+(1, 'http://t.co/zqo4tdbhro')
+--------------
+(1, 'http://t.co/zqzpkdogxc')
+--------------
+(1, 'https://t.co/2wvg1wojai')
+--------------
+(1, 'https://t.co/5nhprl3jn0')
+--------------
+(1, 'https://t.co/cngkbufg77')
+--------------
+(1, 'https://t.co/d4eatjeloi')
+--------------
+(1, 'https://t.co/fznpas4mud')
+--------------
+(1, 'https://t.co/ijgtigxtfy')
+--------------
+(1, 'https://t.co/jh6tplpt78')
+--------------
+(1, 'https://t.co/k7llyxy6xa')
+--------------
+(1, 'https://t.co/kmqo0mmi7e')
+--------------
+(1, 'https://t.co/mek6zqpdmu')
+--------------
+(1, 'https://t.co/pm4karnyf1')
+--------------
+(1, 'https://t.co/tcdiupemha')
+--------------
+(1, 'https://t.co/tdozvhcpus')
+--------------
+(1, 'https://t.co/w6ul8bizoh')
+--------------
+(1, 'https://t.co/yxyaheiqho')
+--------------
+(1, 'huawei')
+--------------
+(1, 'huge')
+--------------
+(1, 'human')
+--------------
+(1, 'hypocrisy')
+--------------
+(1, 'icefog')
+--------------
+(1, 'identifying')
+--------------
+(1, 'illusion')
+--------------
+(1, 'imagine')
+--------------
+(1, 'imessage')
+--------------
+(1, 'implementing')
+--------------
+(1, 'impression')
+--------------
+(1, 'indian')
+--------------
+(1, 'indicted')
+--------------
+(1, 'indicts')
+--------------
+(1, 'infecting')
+--------------
+(1, 'informations')
+--------------
+(1, 'initially')
+--------------
+(1, 'innocent')
+--------------
+(1, 'install')
+--------------
+(1, 'installing')
+--------------
+(1, 'institutions')
+--------------
+(1, 'instrument')
+--------------
+(1, 'insulted')
+--------------
+(1, 'intel')
+--------------
+(1, 'interacts')
+--------------
+(1, 'intercept')
+--------------
+(1, 'interested')
+--------------
+(1, 'intr')
+--------------
+(1, 'intrusion')
+--------------
+(1, 'investors')
+--------------
+(1, "iphone's")
+--------------
+(1, 'iphone5s')
+--------------
+(1, 'isolate')
+--------------
+(1, 'issue')
+--------------
+(1, 'japanese')
+--------------
+(1, 'java')
+--------------
+(1, 'johnny')
+--------------
+(1, 'joking')
+--------------
+(1, 'journalist')
+--------------
+(1, 'jsql')
+--------------
+(1, "kayako's")
+--------------
+(1, 'kdms')
+--------------
+(1, 'keylogger')
+--------------
+(1, 'khartoum')
+--------------
+(1, 'kids')
+--------------
+(1, 'kind')
+--------------
+(1, 'labeled')
+--------------
+(1, 'launched')
+--------------
+(1, 'launches')
+--------------
+(1, 'leaked')
+--------------
+(1, 'leaving')
+--------------
+(1, 'legal')
+--------------
+(1, 'legit')
+--------------
+(1, 'lies,')
+--------------
+(1, 'line')
+--------------
+(1, 'link')
+--------------
+(1, 'list')
+--------------
+(1, 'logo')
+--------------
+(1, 'loophole')
+--------------
+(1, 'made')
+--------------
+(1, 'madleets.')
+--------------
+(1, 'mailbag')
+--------------
+(1, 'make')
+--------------
+(1, 'man')
+--------------
+(1, 'manual')
+--------------
+(1, 'market')
+--------------
+(1, 'maskme')
+--------------
+(1, 'mass')
+--------------
+(1, 'masscan')
+--------------
+(1, 'master')
+--------------
+(1, 'mastermind')
+--------------
+(1, 'max')
+--------------
+(1, 'meet')
+--------------
+(1, 'memory')
+--------------
+(1, 'message')
+--------------
+(1, 'metasploit')
+--------------
+(1, "microsoft's")
+--------------
+(1, 'migrate')
+--------------
+(1, 'mimikatz')
+--------------
+(1, 'misleading')
+--------------
+(1, 'missions')
+--------------
+(1, 'monitoring')
+--------------
+(1, 'month')
+--------------
+(1, 'monthly')
+--------------
+(1, 'move')
+--------------
+(1, 'ms13-053')
+--------------
+(1, 'n.s.a')
+--------------
+(1, 'names')
+--------------
+(1, 'nasa.gov')
+--------------
+(1, 'nation')
+--------------
+(1, 'national')
+--------------
+(1, 'nations')
+--------------
+(1, 'natural')
+--------------
+(1, 'neutralising')
+--------------
+(1, 'nist')
+--------------
+(1, 'no.1')
+--------------
+(1, 'nodes.')
+--------------
+(1, 'notorious')
+--------------
+(1, 'november')
+--------------
+(1, 'october')
+--------------
+(1, 'ollydbg')
+--------------
+(1, 'onama')
+--------------
+(1, 'opening')
+--------------
+(1, 'opt')
+--------------
+(1, 'orders')
+--------------
+(1, 'outdated')
+--------------
+(1, 'output')
+--------------
+(1, 'owner')
+--------------
+(1, "owner's")
+--------------
+(1, 'p.m')
+--------------
+(1, 'pack')
+--------------
+(1, 'pakistan')
+--------------
+(1, 'pakistani')
+--------------
+(1, 'palestine')
+--------------
+(1, 'panel')
+--------------
+(1, 'papa')
+--------------
+(1, 'parliament')
+--------------
+(1, 'part')
+--------------
+(1, 'participated')
+--------------
+(1, 'participating')
+--------------
+(1, 'partners')
+--------------
+(1, 'pass')
+--------------
+(1, 'passes')
+--------------
+(1, 'passive')
+--------------
+(1, 'password')
+--------------
+(1, 'paying')
+--------------
+(1, 'pc')
+--------------
+(1, 'pdf')
+--------------
+(1, 'penetrated')
+--------------
+(1, 'pentagon')
+--------------
+(1, 'peoples')
+--------------
+(1, 'phenomenon')
+--------------
+(1, 'phishers')
+--------------
+(1, 'picture')
+--------------
+(1, 'pirated')
+--------------
+(1, 'place')
+--------------
+(1, 'planted')
+--------------
+(1, 'play')
+--------------
+(1, 'points')
+--------------
+(1, 'poisoning')
+--------------
+(1, 'police')
+--------------
+(1, 'porn')
+--------------
+(1, 'port')
+--------------
+(1, 'post')
+--------------
+(1, 'powered')
+--------------
+(1, 'pre')
+--------------
+(1, 'presentation')
+--------------
+(1, 'prism')
+--------------
+(1, 'prize"')
+--------------
+(1, 'probe')
+--------------
+(1, 'procedures')
+--------------
+(1, 'product')
+--------------
+(1, 'profile')
+--------------
+(1, 'properly')
+--------------
+(1, 'protected')
+--------------
+(1, 'protected.')
+--------------
+(1, 'protects')
+--------------
+(1, 'provide')
+--------------
+(1, 'publish')
+--------------
+(1, 'publishing')
+--------------
+(1, 'quit')
+--------------
+(1, 'ran')
+--------------
+(1, 'rapid7')
+--------------
+(1, 'reading')
+--------------
+(1, 'ready')
+--------------
+(1, 'receive')
+--------------
+(1, 'received')
+--------------
+(1, 'recommendations')
+--------------
+(1, 'recovered')
+--------------
+(1, 'redefine')
+--------------
+(1, 'redirected')
+--------------
+(1, 'register')
+--------------
+(1, 'registers')
+--------------
+(1, 'regular')
+--------------
+(1, 'relays')
+--------------
+(1, 'releases')
+--------------
+(1, 'repeated')
+--------------
+(1, 'reported')
+--------------
+(1, 'reportedly')
+--------------
+(1, 'reports')
+--------------
+(1, 'republic')
+--------------
+(1, 'reputation')
+--------------
+(1, 'requests')
+--------------
+(1, 'resembles')
+--------------
+(1, 'resources')
+--------------
+(1, 'responsibility')
+--------------
+(1, 'rights')
+--------------
+(1, 'riots')
+--------------
+(1, "road's")
+--------------
+(1, 'roads')
+--------------
+(1, 'robohelp')
+--------------
+(1, 'rpz')
+--------------
+(1, 'rt-n10e')
+--------------
+(1, 'rts')
+--------------
+(1, 'ruined')
+--------------
+(1, 'run')
+--------------
+(1, 'running')
+--------------
+(1, 'russia')
+--------------
+(1, 'sandboxing')
+--------------
+(1, 'sanitizing')
+--------------
+(1, 'santoku')
+--------------
+(1, 'scanning')
+--------------
+(1, 'scene')
+--------------
+(1, 'screen...')
+--------------
+(1, 'script')
+--------------
+(1, 'se')
+--------------
+(1, 'sea')
+--------------
+(1, 'secret')
+--------------
+(1, 'secs')
+--------------
+(1, 'secure-email')
+--------------
+(1, 'seeds')
+--------------
+(1, 'seizure')
+--------------
+(1, 'senator')
+--------------
+(1, 'session')
+--------------
+(1, 'share')
+--------------
+(1, 'shelter')
+--------------
+(1, 'shipping')
+--------------
+(1, 'shortlisted')
+--------------
+(1, 'shots')
+--------------
+(1, 'show')
+--------------
+(1, 'showed')
+--------------
+(1, 'sign')
+--------------
+(1, 'silkroad')
+--------------
+(1, 'sizes')
+--------------
+(1, 'skimmers')
+--------------
+(1, 'skimming')
+--------------
+(1, 'small')
+--------------
+(1, 'so-called')
+--------------
+(1, 'solutions')
+--------------
+(1, 'source')
+--------------
+(1, 'spam')
+--------------
+(1, 'special')
+--------------
+(1, 'speedtest')
+--------------
+(1, 'spent')
+--------------
+(1, 'spoofed')
+--------------
+(1, 'spot')
+--------------
+(1, 'stalker')
+--------------
+(1, 'stars')
+--------------
+(1, 'stealth')
+--------------
+(1, 'steve')
+--------------
+(1, 'stolen')
+--------------
+(1, 'stored')
+--------------
+(1, 'story')
+--------------
+(1, 'strapped')
+--------------
+(1, 'strictly,major')
+--------------
+(1, 'strike')
+--------------
+(1, 'subscribe')
+--------------
+(1, 'summit')
+--------------
+(1, 'support')
+--------------
+(1, 'surprise')
+--------------
+(1, 'surveillance')
+--------------
+(1, 'switch')
+--------------
+(1, 'takedown')
+--------------
+(1, 'taking')
+--------------
+(1, 'taps')
+--------------
+(1, 'target')
+--------------
+(1, 'terrorism')
+--------------
+(1, 'tested')
+--------------
+(1, 'tested..')
+--------------
+(1, 'thehackernews@gmail.com')
+--------------
+(1, 'thread')
+--------------
+(1, 'threats')
+--------------
+(1, 'thumb')
+--------------
+(1, 'tip')
+--------------
+(1, 'titled')
+--------------
+(1, 'too.')
+--------------
+(1, 'tool')
+--------------
+(1, 'total')
+--------------
+(1, 'touched')
+--------------
+(1, 'traffic')
+--------------
+(1, 'transactions')
+--------------
+(1, 'trojan')
+--------------
+(1, 'true')
+--------------
+(1, 'trusted')
+--------------
+(1, 'tuned')
+--------------
+(1, 'turn')
+--------------
+(1, 'u.n')
+--------------
+(1, 'ubuntu')
+--------------
+(1, 'uc')
+--------------
+(1, 'ulbricht')
+--------------
+(1, 'unclassified')
+--------------
+(1, 'uniqueness')
+--------------
+(1, 'unlocked')
+--------------
+(1, 'unsealed')
+--------------
+(1, 'untrusted')
+--------------
+(1, 'unwanted')
+--------------
+(1, 'updated.')
+--------------
+(1, 'ur')
+--------------
+(1, 'usage')
+--------------
+(1, 'user-agent')
+--------------
+(1, 'users,if')
+--------------
+(1, 'v.0.5')
+--------------
+(1, 'v2.01')
+--------------
+(1, 'v7.0.1')
+--------------
+(1, 'v7.0.2')
+--------------
+(1, 'vbulletin')
+--------------
+(1, 'verified')
+--------------
+(1, 'video')
+--------------
+(1, 'voice')
+--------------
+(1, 'vpn')
+--------------
+(1, 'vulnerability..')
+--------------
+(1, 'watch')
+--------------
+(1, 'watcher')
+--------------
+(1, 'ways')
+--------------
+(1, 'weapon')
+--------------
+(1, 'weapons')
+--------------
+(1, 'wepawet')
+--------------
+(1, 'whats')
+--------------
+(1, 'wide')
+--------------
+(1, 'win32k')
+--------------
+(1, 'window')
+--------------
+(1, 'winner')
+--------------
+(1, 'woman')
+--------------
+(1, 'women')
+--------------
+(1, 'worldwide')
+--------------
+(1, 'write-up')
+--------------
+(1, 'wrong')
+--------------
+(1, 'wrote')
+--------------
+(1, 'xss')
+--------------
+(1, 'youve')
+--------------
+(1, 'zanti2')
+--------------
+(1, 'zips')
+--------------
+(2, '!')
+--------------
+(2, '"it')
+--------------
+(2, '"sure')
+--------------
+(2, '#bitcoins')
+--------------
+(2, '#bitdefender')
+--------------
+(2, '#cyberwar')
+--------------
+(2, '#download')
+--------------
+(2, '#espionage')
+--------------
+(2, '#fbi')
+--------------
+(2, '#ff')
+--------------
+(2, '#fisc')
+--------------
+(2, '#gchq')
+--------------
+(2, '#hosting')
+--------------
+(2, '#imessage')
+--------------
+(2, '#mac')
+--------------
+(2, '#mainway')
+--------------
+(2, '#microsoft')
+--------------
+(2, '#palestinian')
+--------------
+(2, '#qatar')
+--------------
+(2, '#securi')
+--------------
+(2, '#vbulletin')
+--------------
+(2, '#vpn')
+--------------
+(2, '$12.50')
+--------------
+(2, '$2.50')
+--------------
+(2, '$28,000')
+--------------
+(2, '$300')
+--------------
+(2, '&gt;&gt')
+--------------
+(2, "'adversaries'")
+--------------
+(2, "'icefog")
+--------------
+(2, "'operation")
+--------------
+(2, "'threats")
+--------------
+(2, '(300gbps')
+--------------
+(2, '(via')
+--------------
+(2, '-')
+--------------
+(2, '..')
+--------------
+(2, '13')
+--------------
+(2, '2.9')
+--------------
+(2, '20')
+--------------
+(2, '22nd')
+--------------
+(2, '3.0')
+--------------
+(2, '3.0alpha4')
+--------------
+(2, '5')
+--------------
+(2, '50')
+--------------
+(2, '5000')
+--------------
+(2, '5s')
+--------------
+(2, '6000')
+--------------
+(2, '70')
+--------------
+(2, '7_0_2')
+--------------
+(2, '9')
+--------------
+(2, ':d')
+--------------
+(2, ';')
+--------------
+(2, '@3bdullla')
+--------------
+(2, '@4ngrycpu')
+--------------
+(2, '@agilerod')
+--------------
+(2, '@anon_central')
+--------------
+(2, '@anonymouspress')
+--------------
+(2, '@antiproject')
+--------------
+(2, '@arbornetworks')
+--------------
+(2, '@asher_wolf')
+--------------
+(2, '@blackthorne')
+--------------
+(2, '@bruce_schneier')
+--------------
+(2, '@crypt0nymous')
+--------------
+(2, '@duckduckgo')
+--------------
+(2, '@eff')
+--------------
+(2, '@kafeine')
+--------------
+(2, '@publicanonnews')
+--------------
+(2, '@rt_com')
+--------------
+(2, '@thehackersne')
+--------------
+(2, "@wikileaks's")
+--------------
+(2, '[fixed]')
+--------------
+(2, 'accepts')
+--------------
+(2, 'accused')
+--------------
+(2, 'activist')
+--------------
+(2, 'adams')
+--------------
+(2, 'adobe')
+--------------
+(2, 'ads')
+--------------
+(2, 'again.')
+--------------
+(2, 'alpha')
+--------------
+(2, 'amazon')
+--------------
+(2, 'analyzing')
+--------------
+(2, 'announced')
+--------------
+(2, 'apps')
+--------------
+(2, 'areas')
+--------------
+(2, 'article')
+--------------
+(2, 'aslr')
+--------------
+(2, 'associates')
+--------------
+(2, 'author')
+--------------
+(2, 'awesome')
+--------------
+(2, 'based')
+--------------
+(2, 'big')
+--------------
+(2, 'birthday')
+--------------
+(2, 'bitcoin')
+--------------
+(2, 'blackout')
+--------------
+(2, 'block')
+--------------
+(2, 'body')
+--------------
+(2, 'breach')
+--------------
+(2, 'brokers')
+--------------
+(2, 'building')
+--------------
+(2, 'bundle')
+--------------
+(2, 'camera')
+--------------
+(2, 'cash')
+--------------
+(2, 'cc')
+--------------
+(2, 'cents')
+--------------
+(2, 'check')
+--------------
+(2, 'communities')
+--------------
+(2, 'consistent')
+--------------
+(2, 'created')
+--------------
+(2, 'customer')
+--------------
+(2, "customer's")
+--------------
+(2, 'customers')
+--------------
+(2, 'de-anonymize')
+--------------
+(2, 'decrypt')
+--------------
+(2, 'decrypting')
+--------------
+(2, 'details')
+--------------
+(2, 'detect')
+--------------
+(2, 'detected')
+--------------
+(2, 'detention')
+--------------
+(2, 'developed')
+--------------
+(2, 'documents')
+--------------
+(2, 'dollars')
+--------------
+(2, 'dom')
+--------------
+(2, 'door')
+--------------
+(2, 'download')
+--------------
+(2, 'drone')
+--------------
+(2, 'e-taxation')
+--------------
+(2, 'eavesdropping')
+--------------
+(2, 'encrypted')
+--------------
+(2, 'event')
+--------------
+(2, 'executes')
+--------------
+(2, 'exploited')
+--------------
+(2, 'explore')
+--------------
+(2, 'extension')
+--------------
+(2, 'failed')
+--------------
+(2, 'feds')
+--------------
+(2, 'fired')
+--------------
+(2, 'flight')
+--------------
+(2, 'focus')
+--------------
+(2, 'forced')
+--------------
+(2, 'gates')
+--------------
+(2, 'gateway')
+--------------
+(2, 'give')
+--------------
+(2, 'global')
+--------------
+(2, 'governments')
+--------------
+(2, 'guardian')
+--------------
+(2, 'gunshots')
+--------------
+(2, 'hacks')
+--------------
+(2, 'happy')
+--------------
+(2, 'harrison')
+--------------
+(2, 'hero')
+--------------
+(2, 'hey')
+--------------
+(2, 'hide')
+--------------
+(2, 'hijacks')
+--------------
+(2, 'hole')
+--------------
+(2, 'http://t.co/176yyctszd')
+--------------
+(2, 'http://t.co/5zwremilhf')
+--------------
+(2, 'http://t.co/6h7ngzd8jh')
+--------------
+(2, 'http://t.co/73d5zks3w9')
+--------------
+(2, 'http://t.co/7q9zygfftu')
+--------------
+(2, 'http://t.co/8pzgoc4ekk')
+--------------
+(2, 'http://t.co/accg07s1vn')
+--------------
+(2, 'http://t.co/amakhhe5wl')
+--------------
+(2, 'http://t.co/cugmtqgrol')
+--------------
+(2, 'http://t.co/dskwzjnvgz')
+--------------
+(2, 'http://t.co/eircfs0da6')
+--------------
+(2, 'http://t.co/fevwj0bjrw')
+--------------
+(2, 'http://t.co/gjnjxdpvhx')
+--------------
+(2, 'http://t.co/gxorbtggg0')
+--------------
+(2, 'http://t.co/hojfsmzaki')
+--------------
+(2, 'http://t.co/huhfemqcwv')
+--------------
+(2, 'http://t.co/imdrpsxotc')
+--------------
+(2, 'http://t.co/jtewusai7b')
+--------------
+(2, 'http://t.co/jymzloisii')
+--------------
+(2, 'http://t.co/lmpadlobwt')
+--------------
+(2, 'http://t.co/o0cw1dgbll')
+--------------
+(2, 'http://t.co/ogderdjtml')
+--------------
+(2, 'http://t.co/ostasfgp')
+--------------
+(2, 'http://t.co/pgkysmwvb6')
+--------------
+(2, 'http://t.co/pwmtjgpuv3')
+--------------
+(2, 'http://t.co/rkcoexpoy8')
+--------------
+(2, 'http://t.co/rybzyh63h4')
+--------------
+(2, 'http://t.co/s8quacpq1j')
+--------------
+(2, 'http://t.co/t2l4oenyew')
+--------------
+(2, 'http://t.co/tsfmkms35a')
+--------------
+(2, 'http://t.co/vdqkg7uwwd')
+--------------
+(2, 'http://t.co/xrtwzlvgxy')
+--------------
+(2, 'http://t.co/xyipzafqxg')
+--------------
+(2, 'http://t.co/xz0vulkiss')
+--------------
+(2, 'http://t.co/zvwbhgdgzk')
+--------------
+(2, 'https://t.co/u6mjxncbgm')
+--------------
+(2, 'identity')
+--------------
+(2, 'importance')
+--------------
+(2, 'important')
+--------------
+(2, 'india')
+--------------
+(2, 'info')
+--------------
+(2, 'information')
+--------------
+(2, 'installations')
+--------------
+(2, 'installed')
+--------------
+(2, 'interception')
+--------------
+(2, 'involvement')
+--------------
+(2, 'ios7')
+--------------
+(2, 'keeping')
+--------------
+(2, 'kit')
+--------------
+(2, 'latest')
+--------------
+(2, 'leaseweb')
+--------------
+(2, 'linus')
+--------------
+(2, 'locate')
+--------------
+(2, 'lol')
+--------------
+(2, 'mail')
+--------------
+(2, 'malicious')
+--------------
+(2, 'management')
+--------------
+(2, 'menace')
+--------------
+(2, 'messages')
+--------------
+(2, 'microscope')
+--------------
+(2, 'microsoft')
+--------------
+(2, 'mistake')
+--------------
+(2, 'mobile')
+--------------
+(2, 'nordstrom')
+--------------
+(2, "nsa's")
+--------------
+(2, 'nuclear')
+--------------
+(2, 'obama')
+--------------
+(2, 'operators')
+--------------
+(2, 'opponents')
+--------------
+(2, 'pages')
+--------------
+(2, 'paid')
+--------------
+(2, 'passwords')
+--------------
+(2, 'pay')
+--------------
+(2, 'payback')
+--------------
+(2, 'payment')
+--------------
+(2, 'payments')
+--------------
+(2, 'photo')
+--------------
+(2, 'plz')
+--------------
+(2, 'policy')
+--------------
+(2, 'popular')
+--------------
+(2, 'possibly')
+--------------
+(2, 'potential')
+--------------
+(2, 'prevention')
+--------------
+(2, 'private')
+--------------
+(2, 'protect')
+--------------
+(2, 'proxy.sh')
+--------------
+(2, 'public')
+--------------
+(2, 'published')
+--------------
+(2, 'reboot')
+--------------
+(2, 'receives')
+--------------
+(2, 'record')
+--------------
+(2, 'relationship')
+--------------
+(2, 'removed')
+--------------
+(2, 'replace')
+--------------
+(2, 'report')
+--------------
+(2, 'reprieve')
+--------------
+(2, 'request')
+--------------
+(2, 'revelations')
+--------------
+(2, 'rewards')
+--------------
+(2, 'router')
+--------------
+(2, 'sam')
+--------------
+(2, 'sarah')
+--------------
+(2, 'school')
+--------------
+(2, 'screenshot')
+--------------
+(2, 'sd')
+--------------
+(2, 'sells')
+--------------
+(2, 'sending')
+--------------
+(2, 'server')
+--------------
+(2, 'shut')
+--------------
+(2, 'silently')
+--------------
+(2, 'site')
+--------------
+(2, 'skype')
+--------------
+(2, 'solarwinds')
+--------------
+(2, 'spy')
+--------------
+(2, 'ssl')
+--------------
+(2, 'stay')
+--------------
+(2, 'student')
+--------------
+(2, 'technology')
+--------------
+(2, 'teenager')
+--------------
+(2, 'tenda')
+--------------
+(2, 'terrorist')
+--------------
+(2, 'test')
+--------------
+(2, 'testing')
+--------------
+(2, 'theft')
+--------------
+(2, 'thieves')
+--------------
+(2, 'top-secret')
+--------------
+(2, 'torvalds')
+--------------
+(2, 'touchid')
+--------------
+(2, 'tracking')
+--------------
+(2, 'trust')
+--------------
+(2, 'turning')
+--------------
+(2, 'uk')
+--------------
+(2, 'unauthorized')
+--------------
+(2, 'underground')
+--------------
+(2, 'unlock')
+--------------
+(2, 'unstoppable')
+--------------
+(2, 'unsung')
+--------------
+(2, 'upgrade')
+--------------
+(2, 'usbs')
+--------------
+(2, 'viber')
+--------------
+(2, 'view')
+--------------
+(2, 'vodafone')
+--------------
+(2, 'walking')
+--------------
+(2, 'watering')
+--------------
+(2, 'web-based')
+--------------
+(2, 'webcast')
+--------------
+(2, 'whistleblowing')
+--------------
+(2, 'whitehouse')
+--------------
+(2, 'wild')
+--------------
+(2, 'wipe')
+--------------
+(2, 'wordpress')
+--------------
+(2, 'works')
+--------------
+(2, 'wtf')
+--------------
+(3, '"no')
+--------------
+(3, '"silk')
+--------------
+(3, '#0day')
+--------------
+(3, "#apple's")
+--------------
+(3, '#avg')
+--------------
+(3, '#firefox')
+--------------
+(3, '#hacking')
+--------------
+(3, '#ie')
+--------------
+(3, '#lavabit')
+--------------
+(3, '#linux')
+--------------
+(3, '#secu')
+--------------
+(3, '#securityaffairs')
+--------------
+(3, '#sextortion')
+--------------
+(3, '#sudan')
+--------------
+(3, '$15,000')
+--------------
+(3, '$3.5')
+--------------
+(3, '&gt')
+--------------
+(3, '26')
+--------------
+(3, '3rd')
+--------------
+(3, '8')
+--------------
+(3, '?')
+--------------
+(3, '@alienvault')
+--------------
+(3, '@assolini')
+--------------
+(3, '@google')
+--------------
+(3, '@guardian')
+--------------
+(3, '@jiten_jain')
+--------------
+(3, '@kimdotcom')
+--------------
+(3, '@official_sea16')
+--------------
+(3, '@torproject')
+--------------
+(3, 'accounts')
+--------------
+(3, 'address')
+--------------
+(3, 'admits')
+--------------
+(3, 'alexa')
+--------------
+(3, 'analysis')
+--------------
+(3, 'android')
+--------------
+(3, 'award')
+--------------
+(3, 'back')
+--------------
+(3, 'boy')
+--------------
+(3, 'bugs')
+--------------
+(3, 'campaign')
+--------------
+(3, 'capitol')
+--------------
+(3, 'catch')
+--------------
+(3, 'change')
+--------------
+(3, 'chief')
+--------------
+(3, 'china')
+--------------
+(3, 'code')
+--------------
+(3, 'collect')
+--------------
+(3, 'company')
+--------------
+(3, 'contractors')
+--------------
+(3, 'create')
+--------------
+(3, 'critical')
+--------------
+(3, 'defends')
+--------------
+(3, 'demands')
+--------------
+(3, 'deposited')
+--------------
+(3, 'dubbed')
+--------------
+(3, 'edward')
+--------------
+(3, 'eset')
+--------------
+(3, 'exchange')
+--------------
+(3, 'fax')
+--------------
+(3, 'finally')
+--------------
+(3, 'fingerprints')
+--------------
+(3, 'firefox')
+--------------
+(3, 'firm')
+--------------
+(3, 'forcing')
+--------------
+(3, 'founder')
+--------------
+(3, 'http://t.co/290zo3ris8')
+--------------
+(3, 'http://t.co/3tizu8hpne')
+--------------
+(3, 'http://t.co/abnzvowr5a')
+--------------
+(3, 'http://t.co/dsn8wwwgyv')
+--------------
+(3, 'http://t.co/e4twfq30al')
+--------------
+(3, 'http://t.co/fa5odekvdw')
+--------------
+(3, 'http://t.co/g1qokge1cu')
+--------------
+(3, 'http://t.co/gldi9bc2ag')
+--------------
+(3, 'http://t.co/ica9exg4j0')
+--------------
+(3, 'http://t.co/iyys4bpnfg')
+--------------
+(3, 'http://t.co/ke3bhqkxgf')
+--------------
+(3, 'http://t.co/n5bp52micn')
+--------------
+(3, 'http://t.co/nlz1iwx2ca')
+--------------
+(3, 'http://t.co/sbvutax0cl')
+--------------
+(3, 'http://t.co/szoqxayhdv')
+--------------
+(3, 'http://t.co/tfybdpuvyc')
+--------------
+(3, 'http://t.co/tx3dm1d5ld')
+--------------
+(3, 'http://t.co/vmvyrzxepi')
+--------------
+(3, 'http://t.co/xvtr0alpie')
+--------------
+(3, 'http://t.co/yafjjhwwmr')
+--------------
+(3, 'infiltrated')
+--------------
+(3, 'ip')
+--------------
+(3, 'keys')
+--------------
+(3, 'learning')
+--------------
+(3, 'live')
+--------------
+(3, 'logs')
+--------------
+(3, 'loss')
+--------------
+(3, 'machine')
+--------------
+(3, 'major')
+--------------
+(3, 'massive')
+--------------
+(3, 'mechanism')
+--------------
+(3, 'members')
+--------------
+(3, 'metadata')
+--------------
+(3, 'military')
+--------------
+(3, 'miss')
+--------------
+(3, 'mission')
+--------------
+(3, 'model')
+--------------
+(3, 'multiple')
+--------------
+(3, 'networks')
+--------------
+(3, 'noble')
+--------------
+(3, 'oct')
+--------------
+(3, 'offers')
+--------------
+(3, 'page')
+--------------
+(3, 'palestinian')
+--------------
+(3, 'patching')
+--------------
+(3, 'paypal')
+--------------
+(3, 'people')
+--------------
+(3, 'perform')
+--------------
+(3, 'permission')
+--------------
+(3, 'pro-palestinian')
+--------------
+(3, 'program')
+--------------
+(3, 'programs')
+--------------
+(3, 'provider')
+--------------
+(3, 'providers')
+--------------
+(3, 'qatar')
+--------------
+(3, 'remotely')
+--------------
+(3, 'renews')
+--------------
+(3, 'reporting')
+--------------
+(3, 'researchers')
+--------------
+(3, 'risk')
+--------------
+(3, 'sale')
+--------------
+(3, 'sniffed')
+--------------
+(3, 'software')
+--------------
+(3, 'sophisticated')
+--------------
+(3, 'stop')
+--------------
+(3, 'store')
+--------------
+(3, 'strip')
+--------------
+(3, 'suspected')
+--------------
+(3, 'targeting')
+--------------
+(3, 'teen')
+--------------
+(3, 'telecom')
+--------------
+(3, 'telephony')
+--------------
+(3, 'treasury')
+--------------
+(3, 'tuesday')
+--------------
+(3, 'updated')
+--------------
+(3, "usa's")
+--------------
+(3, 'warning')
+--------------
+(3, 'websites')
+--------------
+(3, 'whatsapp')
+--------------
+(3, 'wireless')
+--------------
+(3, 'years')
+--------------
+(3, 'zealand')
+--------------
+(3, 'zero-day')
+--------------
+(4, '#adobe')
+--------------
+(4, '#infosec')
+--------------
+(4, '#metasploit')
+--------------
+(4, '#thn')
+--------------
+(4, '#whmcs')
+--------------
+(4, '#wordpress')
+--------------
+(4, '#yahoo')
+--------------
+(4, '100gbps')
+--------------
+(4, '3')
+--------------
+(4, '@leaseweb')
+--------------
+(4, 'access')
+--------------
+(4, 'account')
+--------------
+(4, 'alexander')
+--------------
+(4, "apple's")
+--------------
+(4, 'attacker')
+--------------
+(4, 'backdoor')
+--------------
+(4, 'bill')
+--------------
+(4, 'bitdefender')
+--------------
+(4, 'confirmed')
+--------------
+(4, 'd-link')
+--------------
+(4, 'ddos')
+--------------
+(4, 'docs')
+--------------
+(4, 'email')
+--------------
+(4, 'exploit')
+--------------
+(4, 'explorer')
+--------------
+(4, 'files')
+--------------
+(4, 'flaw')
+--------------
+(4, 'forum')
+--------------
+(4, 'found')
+--------------
+(4, 'general')
+--------------
+(4, "globalpost's")
+--------------
+(4, 'graphing')
+--------------
+(4, 'hijack')
+--------------
+(4, 'hijacked')
+--------------
+(4, 'hit')
+--------------
+(4, 'hours')
+--------------
+(4, 'html')
+--------------
+(4, 'http://t')
+--------------
+(4, 'http://t.co/0gq3kdytsp')
+--------------
+(4, 'http://t.co/1xqqoo1ysk')
+--------------
+(4, 'http://t.co/ad7olzhtzv')
+--------------
+(4, 'http://t.co/bqzqyfcngi')
+--------------
+(4, 'http://t.co/dpcz2pyd8e')
+--------------
+(4, 'http://t.co/hataafhh1a')
+--------------
+(4, 'http://t.co/hogq5zlntz')
+--------------
+(4, 'http://t.co/lsbkoszni6')
+--------------
+(4, 'http://t.co/m1bac9camf')
+--------------
+(4, 'http://t.co/obscptvspd')
+--------------
+(4, 'http://t.co/yopebthyqd')
+--------------
+(4, 'integration')
+--------------
+(4, 'javascript')
+--------------
+(4, 'learn')
+--------------
+(4, 'log')
+--------------
+(4, 'mailbox')
+--------------
+(4, 'malware')
+--------------
+(4, 'manager')
+--------------
+(4, 'millions')
+--------------
+(4, 'mode')
+--------------
+(4, 'months')
+--------------
+(4, 'navy')
+--------------
+(4, 'offering')
+--------------
+(4, 'patch')
+--------------
+(4, 'prevent')
+--------------
+(4, 'privacy')
+--------------
+(4, 'researcher')
+--------------
+(4, 'routers')
+--------------
+(4, 'sim')
+--------------
+(4, 'social')
+--------------
+(4, 'sold')
+--------------
+(4, 'sql')
+--------------
+(4, 'talk')
+--------------
+(4, 'targeted')
+--------------
+(4, 'techniques')
+--------------
+(4, 'track')
+--------------
+(4, 'twitter')
+--------------
+(4, 'unbreakable')
+--------------
+(4, 'undetectable')
+--------------
+(4, 'war')
+--------------
+(4, 'webcam')
+--------------
+(5, '#iphone5s')
+--------------
+(5, '#ransomware')
+--------------
+(5, '.')
+--------------
+(5, '16-year-old')
+--------------
+(5, '19-year-old')
+--------------
+(5, '4')
+--------------
+(5, ':')
+--------------
+(5, 'antivirus')
+--------------
+(5, 'blogs')
+--------------
+(5, 'btc')
+--------------
+(5, 'citizens')
+--------------
+(5, 'computers')
+--------------
+(5, 'cookies')
+--------------
+(5, 'court')
+--------------
+(5, 'credit')
+--------------
+(5, 'cryptolocker')
+--------------
+(5, 'database')
+--------------
+(5, 'detecting')
+--------------
+(5, 'domain')
+--------------
+(5, 'engine')
+--------------
+(5, 'fake')
+--------------
+(5, 'fbi')
+--------------
+(5, 'finger')
+--------------
+(5, 'fix')
+--------------
+(5, 'fooled')
+--------------
+(5, 'graph')
+--------------
+(5, 'group')
+--------------
+(5, 'http://t.co/r19eqxhgxo')
+--------------
+(5, 'injection')
+--------------
+(5, 'mac')
+--------------
+(5, 'middle')
+--------------
+(5, 'motives')
+--------------
+(5, 'passcode')
+--------------
+(5, 'powerful')
+--------------
+(5, 'read')
+--------------
+(5, 'registrar')
+--------------
+(5, 'release')
+--------------
+(5, 'service')
+--------------
+(5, 'settings')
+--------------
+(5, 'sponsored')
+--------------
+(5, 'state')
+--------------
+(5, 'steal')
+--------------
+(5, 'stories')
+--------------
+(5, 'syrian')
+--------------
+(5, 'team')
+--------------
+(5, 'thousands')
+--------------
+(5, 'version')
+--------------
+(5, 'vulnerabilities')
+--------------
+(5, 'vulnerability')
+--------------
+(5, 'yahoo')
+--------------
+(6, '#apt')
+--------------
+(6, '#whatsapp')
+--------------
+(6, '@ioerror')
+--------------
+(6, '@soaj1664ashar')
+--------------
+(6, 'army')
+--------------
+(6, 'card')
+--------------
+(6, 'defaced')
+--------------
+(6, 'device')
+--------------
+(6, 'electronic')
+--------------
+(6, 'hosting')
+--------------
+(6, 'id')
+--------------
+(6, 'including')
+--------------
+(6, 'ios')
+--------------
+(6, 'iphone')
+--------------
+(6, 'largest')
+--------------
+(6, 'network')
+--------------
+(6, 'personal')
+--------------
+(6, 'review')
+--------------
+(6, 'shutdown')
+--------------
+(6, 'u.s')
+--------------
+(6, 'updates')
+--------------
+(6, 'user')
+--------------
+(6, 'world')
+--------------
+(7, '#apple')
+--------------
+(7, '#prism')
+--------------
+(7, 'biggest')
+--------------
+(7, 'bounty')
+--------------
+(7, 'chinese')
+--------------
+(7, 'compromised')
+--------------
+(7, 'cyber')
+--------------
+(7, 'dns')
+--------------
+(7, 'encryption')
+--------------
+(7, 'exclusive')
+--------------
+(7, 'fingerprint')
+--------------
+(7, 'lockscreen')
+--------------
+(7, 'nsa')
+--------------
+(7, 'online')
+--------------
+(7, 'screen')
+--------------
+(7, 'security')
+--------------
+(7, 'seized')
+--------------
+(7, 'silk')
+--------------
+(7, 'time')
+--------------
+(7, 'today')
+--------------
+(8, '#surveillance')
+--------------
+(8, '#xss')
+--------------
+(8, '@securityaffairs')
+--------------
+(8, '@securityshell')
+--------------
+(8, 'iranian')
+--------------
+(8, 'scanner')
+--------------
+(8, 'sites')
+--------------
+(8, 'vulnerable')
+--------------
+(9, '#touchid')
+--------------
+(9, 'bug')
+--------------
+(9, 'facebook')
+--------------
+(9, 'road')
+--------------
+(9, 'search')
+--------------
+(9, 'worth')
+--------------
+(10, '@unix_root')
+--------------
+(10, 'bypass')
+--------------
+(10, 'google')
+--------------
+(10, 'government')
+--------------
+(10, 'lock')
+--------------
+(10, 'released')
+--------------
+(10, 'tor')
+--------------
+(10, 'update')
+--------------
+(10, "world's")
+--------------
+(11, 'app')
+--------------
+(11, 'million')
+--------------
+(11, 'os')
+--------------
+(11, 'top')
+--------------
+(12, '#android')
+--------------
+(12, '7.0.2')
+--------------
+(12, 'apple')
+--------------
+(12, 'hack')
+--------------
+(13, '#anonymous')
+--------------
+(13, '#ddos')
+--------------
+(13, '#privacy')
+--------------
+(13, 'browser')
+--------------
+(13, 'internet')
+--------------
+(13, 'web')
+--------------
+(14, '#snowden')
+--------------
+(14, '@thehackersnews')
+--------------
+(15, '#bitcoin')
+--------------
+(15, 'arrested')
+--------------
+(15, 'attacks')
+--------------
+(16, '#ios')
+--------------
+(16, '#malware')
+--------------
+(19, '#vulnerability')
+--------------
+(19, '@security_wang')
+--------------
+(19, 'attack')
+--------------
+(19, 'users')
+--------------
+(21, '#iphone')
+--------------
+(22, 'website')
+--------------
+(23, 'hackers')
+--------------
+(24, '#tor')
+--------------
+(24, 'data')
+--------------
+(24, 'hacked')
+--------------
+(24, 'http://t.co/hiid2zl0wu')
+--------------
+(24, 'http://t.co/tteo8uzylh')
+--------------
+(24, 'paper')
+--------------
+(25, '&amp')
+--------------
+(27, 'news')
+--------------
+(39, '@hackers_conf')
+--------------
+(41, '#nsa')
+--------------
+(47, 'hacker')
+--------------
+(114, '')
+--------------
+(147, '#security')
+--------------
+---------------------------maxxxx-------------
+#security 147
+>>> 
